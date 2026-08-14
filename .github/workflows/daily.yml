@@ -1,0 +1,38 @@
+name: 每日数据刷新
+
+on:
+  schedule:
+    - cron: "10 1 * * *"   # UTC 1:10 = 北京时间 9:10
+  workflow_dispatch:        # 允许在 Actions 页面手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: python -m pip install --quiet feedparser
+
+      - name: Run update script
+        run: python update_data.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add makapaka-data.json
+          if git diff --cached --quiet; then
+            echo "无变化，跳过提交"
+          else
+            git commit -m "自动刷新数据 $(date +%Y-%m-%d)"
+            git push
+          fi
