@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T08:28:01.110Z",
+  "updatedAt": "2026-08-14T08:28:12.136Z",
   "data": {
     "free-state": {
       "v": [
@@ -9,6 +9,86 @@
         }
       ],
       "t": 1786695750450
+    },
+    "ai-news-user": {
+      "v": {
+        "added": [
+          {
+            "id": "n1786696081032avjdm",
+            "type": "rss",
+            "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」",
+            "src": "量子位",
+            "url": "https://www.qbitai.com/2026/08/472722.html",
+            "date": "8/14 15:29",
+            "summary": "少花一半成本，部署效率提升80%！机器人研发可以不用重复造轮子了。"
+          },
+          {
+            "id": "n1786696081032wa3og",
+            "type": "rss",
+            "title": "德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集",
+            "src": "量子位",
+            "url": "https://www.qbitai.com/2026/08/472718.html",
+            "date": "8/14 14:18",
+            "summary": ""
+          },
+          {
+            "id": "n17866960810325bt8h",
+            "type": "rss",
+            "title": "深度体验DeepSeek Harness，我原谅它涨价了",
+            "src": "量子位",
+            "url": "https://www.qbitai.com/2026/08/472208.html",
+            "date": "8/14 00:03",
+            "summary": "欢迎，为后人种点树"
+          },
+          {
+            "id": "n1786696081032yh22m",
+            "type": "rss",
+            "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
+            "src": "量子位",
+            "url": "https://www.qbitai.com/2026/08/472059.html",
+            "date": "8/13 20:34",
+            "summary": "首颗AI芯片已进入量产"
+          },
+          {
+            "id": "n1786696081032hph77",
+            "type": "rss",
+            "title": "马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购",
+            "src": "量子位",
+            "url": "https://www.qbitai.com/2026/08/472067.html",
+            "date": "8/13 20:04",
+            "summary": "马斯克版Workbuddy也来了"
+          },
+          {
+            "id": "n1786696081032xaag2",
+            "type": "rss",
+            "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
+            "src": "量子位",
+            "url": "https://www.qbitai.com/2026/08/472060.html",
+            "date": "8/13 19:53",
+            "summary": "重新定义物理AI数据基础设施"
+          },
+          {
+            "id": "n1786696081032c5i1n",
+            "type": "rss",
+            "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
+            "src": "量子位",
+            "url": "https://www.qbitai.com/2026/08/472016.html",
+            "date": "8/13 19:29",
+            "summary": "好数学家不挑AI模型"
+          },
+          {
+            "id": "n1786696081032wrjqg",
+            "type": "rss",
+            "title": "中国人能飞！杭州发布全球首款站姿载人飞行器",
+            "src": "量子位",
+            "url": "https://www.qbitai.com/2026/08/471893.html",
+            "date": "8/13 18:20",
+            "summary": "让一部分人先飞起来"
+          }
+        ],
+        "deleted": []
+      },
+      "t": 1786696090041
     }
   }
 }
