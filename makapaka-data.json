@@ -1,76 +1,76 @@
 {
   "news": [
     {
-      "id": "n1786700001rl",
+      "id": "n8258809046",
       "type": "rss",
-      "title": "谷歌发布 Gemini 3.7 Flash：主打编程、智能体与复杂工作流",
-      "src": "华尔街见闻 / 腾讯新闻",
-      "url": "https://view.inews.qq.com/a/20260814A01RSO00",
-      "date": "8/14 09:00",
-      "summary": "美东 8/13 谷歌推出 Gemini 3.7 Flash，号称「最智能的工作型模型」，代码调试与生产级代码生成较前代大幅提升，价格大幅下调。"
+      "title": "深度体验DeepSeek Harness，我原谅它涨价了",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/472208.html",
+      "date": "8/14",
+      "summary": "欢迎，为后人种点树"
     },
     {
-      "id": "n1786700002cz",
+      "id": "n2696306150",
       "type": "rss",
-      "title": "DeepSeek Harness 开发者预览版开源公测（MIT 协议）",
-      "src": "智东西 / 每日经济新闻",
-      "url": "https://www.163.com/dy/article/L49CRG5O0512B07B.html",
-      "date": "8/14 07:49",
-      "summary": "DeepSeek 开源首个智能体运行框架 Harness，采用「一切皆插件」架构，可让模型直接进入代码库完成查找、修改、测试与修正，补齐 Vibe Coding 入口。"
+      "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/472059.html",
+      "date": "8/14",
+      "summary": "首颗AI芯片已进入量产"
     },
     {
-      "id": "n1786700003kf",
+      "id": "n960655636",
       "type": "rss",
-      "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力显著增强",
-      "src": "超能网 / 腾讯新闻",
-      "url": "https://view.inews.qq.com/a/20260814A02CYV00",
-      "date": "8/14 08:10",
-      "summary": "8/14 凌晨 V4-Pro 在 APP、网页端与 API 同步更新，增强 Agent 能力、生产环境性能提升，官方同时宣布价格调整。"
+      "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/472060.html",
+      "date": "8/14",
+      "summary": "重新定义物理AI数据基础设施"
     },
     {
-      "id": "n1786700004jn",
+      "id": "n3278120503",
       "type": "rss",
-      "title": "智谱 GLM-5.3 发布：编程能力较 5.2 提升 50%",
-      "src": "21 世纪经济报道",
-      "url": "https://m.21jingji.com/article/20260814/herald/78159f928f93c1a631a9c070fa48c2cc.html",
-      "date": "8/14 11:00",
-      "summary": "GLM-5.3 基座不变、极致后训练 Scaling 提上限，TerminalBench3.0 等基准列开源模型第一，发布两周后开放模型权重。"
+      "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/472016.html",
+      "date": "8/14",
+      "summary": "好数学家不挑AI模型"
     },
     {
-      "id": "n1786700005di",
+      "id": "n5895704709",
       "type": "rss",
-      "title": "经济日报：开源正改写 AI 竞争规则，国产模型下载破 100 亿次",
-      "src": "经济日报 / 腾讯新闻",
-      "url": "https://view.inews.qq.com/a/20260814A03K0000",
-      "date": "8/14 10:30",
-      "summary": "MiniMax H3、Kimi K3 等密集开源，Hugging Face 上我国开源模型累计下载量居全球首位、突破 100 亿次，竞争从参数转向生态与服务。"
+      "title": "刚刚！Ilya首个模型曝光了",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/471701.html",
+      "date": "8/14",
+      "summary": "SSI第一剑，劈向持续学习"
     },
     {
-      "id": "n1786700006nt",
+      "id": "n9951347017",
       "type": "rss",
-      "title": "Anthropic 估值或破 2 万亿美元，最快 10 月上市",
-      "src": "每日经济新闻",
-      "url": "https://www.163.com/dy/article/L49CRG5O0512B07B.html",
-      "date": "8/14 07:49",
-      "summary": "据报道 Anthropic 已于 6/1 秘密递交 S-1，年化营收由 2025 年初 10 亿美元增至 5 月 470 亿美元，市场交易的已是「企业 AI 核心入口」。"
+      "title": "OpenAI is losing its second executive this week",
+      "src": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "date": "8/14",
+      "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she "
     },
     {
-      "id": "n1786700007ms",
+      "id": "n3432521708",
       "type": "rss",
-      "title": "Databricks 完成 50 亿美元融资，投后估值 1900 亿美元",
-      "src": "财联社 / 腾讯新闻",
-      "url": "https://new.qq.com/rain/a/20260814A03PPI00",
-      "date": "8/14 09:20",
-      "summary": "距上次融资约六个月，AI 数据基础设施赛道热度持续升温，凸显算力需求驱动的资金博弈。"
+      "title": "Suno is trying to look more like a real music production tool",
+      "src": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+      "date": "8/14",
+      "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubte"
     },
     {
-      "id": "n1786700008td",
+      "id": "n3294357674",
       "type": "rss",
-      "title": "OpenAI 推出 Ultrafast：GPT-5.6 Sol 提速 14 倍",
-      "src": "TechCrunch / Tech Pulse",
-      "url": "https://www.techbytes.app/tech-pulse-daily/",
-      "date": "8/14 08:00",
-      "summary": "OpenAI 发布预览版加速模式，面向企业用户把最新最强模型运行速度提升至 14 倍，主攻企业级 Agent 落地。"
+      "title": "I looked inside an AI generated movie, and the best parts were all human",
+      "src": "The Verge AI",
+      "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+      "date": "8/14",
+      "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized v"
     }
   ],
   "jobs": [
