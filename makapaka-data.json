@@ -1,76 +1,76 @@
 {
   "news": [
     {
-      "id": "n3161393699",
+      "id": "n4465351078",
       "type": "rss",
-      "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
+      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/473149.html",
-      "date": "8/15",
-      "summary": ""
+      "url": "https://www.qbitai.com/2026/08/473876.html",
+      "date": "8/16",
+      "summary": "理解大模型，无需再训练一个替代网络"
     },
     {
-      "id": "n2723926324",
+      "id": "n7026529962",
       "type": "rss",
-      "title": "刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了",
+      "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/473038.html",
-      "date": "8/15",
-      "summary": "顺手拿下最强开源安全模型"
+      "url": "https://www.qbitai.com/2026/08/473866.html",
+      "date": "8/16",
+      "summary": "音潮API限时免费开放"
     },
     {
-      "id": "n6628644591",
+      "id": "n2948252210",
       "type": "rss",
-      "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
+      "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/473144.html",
-      "date": "8/15",
-      "summary": ""
+      "url": "https://www.qbitai.com/2026/08/473669.html",
+      "date": "8/16",
+      "summary": "推理能力还能自定义"
     },
     {
-      "id": "n9550745207",
+      "id": "n8328271954",
       "type": "rss",
-      "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」",
+      "title": "DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/472722.html",
-      "date": "8/15",
-      "summary": "少花一半成本，部署效率提升80%！机器人研发可以不用重复造轮子了。"
+      "url": "https://www.qbitai.com/2026/08/473597.html",
+      "date": "8/16",
+      "summary": "大家已经给DeepSeek装上了啥"
     },
     {
-      "id": "n4430764886",
+      "id": "n3044187272",
       "type": "rss",
-      "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
-      "src": "The Verge AI",
-      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "date": "8/15",
-      "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator,"
+      "title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/473407.html",
+      "date": "8/16",
+      "summary": "1.9万字全文实录"
     },
     {
-      "id": "n4577149610",
+      "id": "n2498006834",
       "type": "rss",
-      "title": "Apple trained its own AI model for China with help from Alibaba",
-      "src": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "date": "8/15",
-      "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focus"
+      "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
+      "src": "Hacker News",
+      "url": "https://waku.sh",
+      "date": "8/16",
+      "summary": "Article URL: https://waku.sh Comments URL: https://news.ycombinator.com/item?id=49315709 Points: 15 # Comments: 4"
     },
     {
-      "id": "n7472734172",
+      "id": "n5813843975",
       "type": "rss",
-      "title": "OpenAI is losing its second executive this week",
-      "src": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-      "date": "8/15",
-      "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she "
+      "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+      "src": "Hacker News",
+      "url": "https://arxiv.org/abs/2608.13122",
+      "date": "8/16",
+      "summary": "Article URL: https://arxiv.org/abs/2608.13122 Comments URL: https://news.ycombinator.com/item?id=49314967 Points: 8 # Comments: 2"
     },
     {
-      "id": "n5340266352",
+      "id": "n1286746096",
       "type": "rss",
-      "title": "Suno is trying to look more like a real music production tool",
+      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
       "src": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-      "date": "8/15",
-      "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubte"
+      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "date": "8/16",
+      "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on b"
     }
   ],
   "jobs": [
@@ -267,6 +267,6 @@
       "fresh": true
     }
   ],
-  "newsUpdated": "更新于 8/15",
+  "newsUpdated": "更新于 8/16",
   "jobsUpdated": "更新于 8/14"
 }
