@@ -1,76 +1,76 @@
 {
   "news": [
     {
-      "id": "n4465351078",
+      "id": "n1026482",
+      "type": "rss",
+      "title": "杭州95后小伙，5亿买走硅谷城堡",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/474245.html",
+      "date": "8/17",
+      "summary": "辞别马斯克xAI半年之后…"
+    },
+    {
+      "id": "n690943261",
+      "type": "rss",
+      "title": "李飞飞最新访谈：AI咋能代替人呢？",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/474140.html",
+      "date": "8/17",
+      "summary": "AI不是替代者，而是个人能力的放大镜"
+    },
+    {
+      "id": "n6341646068",
+      "type": "rss",
+      "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/474064.html",
+      "date": "8/17",
+      "summary": "“错过种一棵树最好的时间”"
+    },
+    {
+      "id": "n4829305898",
+      "type": "rss",
+      "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/473972.html",
+      "date": "8/17",
+      "summary": "背后是四项关键能力"
+    },
+    {
+      "id": "n207293608",
       "type": "rss",
       "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/08/473876.html",
-      "date": "8/16",
+      "date": "8/17",
       "summary": "理解大模型，无需再训练一个替代网络"
     },
     {
-      "id": "n7026529962",
+      "id": "n410355465",
       "type": "rss",
       "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/08/473866.html",
-      "date": "8/16",
+      "date": "8/17",
       "summary": "音潮API限时免费开放"
     },
     {
-      "id": "n2948252210",
+      "id": "n934256828",
       "type": "rss",
       "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/08/473669.html",
-      "date": "8/16",
+      "date": "8/17",
       "summary": "推理能力还能自定义"
     },
     {
-      "id": "n8328271954",
+      "id": "n3074010722",
       "type": "rss",
-      "title": "DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/473597.html",
-      "date": "8/16",
-      "summary": "大家已经给DeepSeek装上了啥"
-    },
-    {
-      "id": "n3044187272",
-      "type": "rss",
-      "title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/473407.html",
-      "date": "8/16",
-      "summary": "1.9万字全文实录"
-    },
-    {
-      "id": "n2498006834",
-      "type": "rss",
-      "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
+      "title": "Gmail might partially be to blame for receiving emails from other Sean Conners",
       "src": "Hacker News",
-      "url": "https://waku.sh",
-      "date": "8/16",
-      "summary": "Article URL: https://waku.sh Comments URL: https://news.ycombinator.com/item?id=49315709 Points: 15 # Comments: 4"
-    },
-    {
-      "id": "n5813843975",
-      "type": "rss",
-      "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-      "src": "Hacker News",
-      "url": "https://arxiv.org/abs/2608.13122",
-      "date": "8/16",
-      "summary": "Article URL: https://arxiv.org/abs/2608.13122 Comments URL: https://news.ycombinator.com/item?id=49314967 Points: 8 # Comments: 2"
-    },
-    {
-      "id": "n1286746096",
-      "type": "rss",
-      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-      "src": "The Verge AI",
-      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-      "date": "8/16",
-      "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on b"
+      "url": "https://boston.conman.org/2026/08/11.1",
+      "date": "8/17",
+      "summary": "Article URL: https://boston.conman.org/2026/08/11.1 Comments URL: https://news.ycombinator.com/item?id=49326229 Points: 3 # Comments: 0"
     }
   ],
   "jobs": [
@@ -267,6 +267,6 @@
       "fresh": true
     }
   ],
-  "newsUpdated": "更新于 8/16",
+  "newsUpdated": "更新于 8/17",
   "jobsUpdated": "更新于 8/14"
 }
