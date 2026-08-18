@@ -1,76 +1,76 @@
 {
   "news": [
     {
-      "id": "n1026482",
+      "id": "n654239022",
+      "type": "rss",
+      "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/474537.html",
+      "date": "8/18",
+      "summary": "8月17日，具身智能初创公司共生知行发布双足人形机器人驾驶卡丁车Demo"
+    },
+    {
+      "id": "n5214048927",
+      "type": "rss",
+      "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/474518.html",
+      "date": "8/18",
+      "summary": "没有遥控、没人喂球"
+    },
+    {
+      "id": "n36222984",
+      "type": "rss",
+      "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/474381.html",
+      "date": "8/18",
+      "summary": "AI最近最出圈的数学突破，都在“找反例”"
+    },
+    {
+      "id": "n163135927",
+      "type": "rss",
+      "title": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/474334.html",
+      "date": "8/18",
+      "summary": "即将完全开源"
+    },
+    {
+      "id": "n1083150734",
       "type": "rss",
       "title": "杭州95后小伙，5亿买走硅谷城堡",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/08/474245.html",
-      "date": "8/17",
+      "date": "8/18",
       "summary": "辞别马斯克xAI半年之后…"
     },
     {
-      "id": "n690943261",
+      "id": "n7324545786",
       "type": "rss",
       "title": "李飞飞最新访谈：AI咋能代替人呢？",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/08/474140.html",
-      "date": "8/17",
+      "date": "8/18",
       "summary": "AI不是替代者，而是个人能力的放大镜"
     },
     {
-      "id": "n6341646068",
+      "id": "n8056680645",
       "type": "rss",
       "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/08/474064.html",
-      "date": "8/17",
+      "date": "8/18",
       "summary": "“错过种一棵树最好的时间”"
     },
     {
-      "id": "n4829305898",
+      "id": "n1978637881",
       "type": "rss",
-      "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/473972.html",
-      "date": "8/17",
-      "summary": "背后是四项关键能力"
-    },
-    {
-      "id": "n207293608",
-      "type": "rss",
-      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/473876.html",
-      "date": "8/17",
-      "summary": "理解大模型，无需再训练一个替代网络"
-    },
-    {
-      "id": "n410355465",
-      "type": "rss",
-      "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/473866.html",
-      "date": "8/17",
-      "summary": "音潮API限时免费开放"
-    },
-    {
-      "id": "n934256828",
-      "type": "rss",
-      "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/473669.html",
-      "date": "8/17",
-      "summary": "推理能力还能自定义"
-    },
-    {
-      "id": "n3074010722",
-      "type": "rss",
-      "title": "Gmail might partially be to blame for receiving emails from other Sean Conners",
+      "title": "Repair Cafe – Fix Your Broken Items",
       "src": "Hacker News",
-      "url": "https://boston.conman.org/2026/08/11.1",
-      "date": "8/17",
-      "summary": "Article URL: https://boston.conman.org/2026/08/11.1 Comments URL: https://news.ycombinator.com/item?id=49326229 Points: 3 # Comments: 0"
+      "url": "https://www.repaircafe.org/",
+      "date": "8/18",
+      "summary": "Article URL: https://www.repaircafe.org/ Comments URL: https://news.ycombinator.com/item?id=49339097 Points: 18 # Comments: 6"
     }
   ],
   "jobs": [
@@ -267,6 +267,6 @@
       "fresh": true
     }
   ],
-  "newsUpdated": "更新于 8/17",
+  "newsUpdated": "更新于 8/18",
   "jobsUpdated": "更新于 8/14"
 }
