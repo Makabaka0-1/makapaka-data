@@ -1,76 +1,76 @@
 {
   "news": [
     {
-      "id": "n654239022",
+      "id": "n6057852438",
       "type": "rss",
-      "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
+      "title": "网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/474537.html",
-      "date": "8/18",
-      "summary": "8月17日，具身智能初创公司共生知行发布双足人形机器人驾驶卡丁车Demo"
+      "url": "https://www.qbitai.com/2026/08/474857.html",
+      "date": "8/19",
+      "summary": "8月18日，网易传媒举办“蜜蜂AI媒体沟通会”"
     },
     {
-      "id": "n5214048927",
+      "id": "n8300445198",
       "type": "rss",
-      "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
+      "title": "π0引用的中国团队，又出手了：世界仿真器新作发布",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/474518.html",
-      "date": "8/18",
-      "summary": "没有遥控、没人喂球"
+      "url": "https://www.qbitai.com/2026/08/474838.html",
+      "date": "8/19",
+      "summary": "给机器人造一个更接近真实的“第二世界”"
     },
     {
-      "id": "n36222984",
+      "id": "n5737689947",
       "type": "rss",
-      "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
+      "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/474381.html",
-      "date": "8/18",
-      "summary": "AI最近最出圈的数学突破，都在“找反例”"
+      "url": "https://www.qbitai.com/2026/08/474840.html",
+      "date": "8/19",
+      "summary": "8月17日，阿里巴巴发布AI音乐模型HappyShrimp"
     },
     {
-      "id": "n163135927",
+      "id": "n7351542691",
       "type": "rss",
-      "title": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
+      "title": "6个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/474334.html",
-      "date": "8/18",
-      "summary": "即将完全开源"
+      "url": "https://www.qbitai.com/2026/08/474806.html",
+      "date": "8/19",
+      "summary": "代码能跑≠游戏能玩"
     },
     {
-      "id": "n1083150734",
+      "id": "n501303311",
       "type": "rss",
-      "title": "杭州95后小伙，5亿买走硅谷城堡",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/474245.html",
-      "date": "8/18",
-      "summary": "辞别马斯克xAI半年之后…"
+      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+      "src": "The Verge AI",
+      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "date": "8/19",
+      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Willi"
     },
     {
-      "id": "n7324545786",
+      "id": "n6187654781",
       "type": "rss",
-      "title": "李飞飞最新访谈：AI咋能代替人呢？",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/474140.html",
-      "date": "8/18",
-      "summary": "AI不是替代者，而是个人能力的放大镜"
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "src": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "date": "8/19",
+      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and al"
     },
     {
-      "id": "n8056680645",
+      "id": "n5440571027",
       "type": "rss",
-      "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/474064.html",
-      "date": "8/18",
-      "summary": "“错过种一棵树最好的时间”"
+      "title": "Firefox&#8217;s Smart Window promises a better AI browser",
+      "src": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "date": "8/19",
+      "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest t"
     },
     {
-      "id": "n1978637881",
+      "id": "n5883578750",
       "type": "rss",
-      "title": "Repair Cafe – Fix Your Broken Items",
-      "src": "Hacker News",
-      "url": "https://www.repaircafe.org/",
-      "date": "8/18",
-      "summary": "Article URL: https://www.repaircafe.org/ Comments URL: https://news.ycombinator.com/item?id=49339097 Points: 18 # Comments: 6"
+      "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
+      "src": "The Verge AI",
+      "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+      "date": "8/19",
+      "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspac"
     }
   ],
   "jobs": [
@@ -267,6 +267,6 @@
       "fresh": true
     }
   ],
-  "newsUpdated": "更新于 8/18",
+  "newsUpdated": "更新于 8/19",
   "jobsUpdated": "更新于 8/14"
 }
