@@ -1,76 +1,76 @@
 {
   "news": [
     {
-      "id": "n6057852438",
+      "id": "n30143233",
       "type": "rss",
-      "title": "网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
+      "title": "华尔街实测8款全球主流Agent：千问办公综合排名第一",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/474857.html",
-      "date": "8/19",
-      "summary": "8月18日，网易传媒举办“蜜蜂AI媒体沟通会”"
+      "url": "https://www.qbitai.com/2026/08/476070.html",
+      "date": "8/20",
+      "summary": "成本也正成为Agent商业化需要考虑的重要因素"
     },
     {
-      "id": "n8300445198",
+      "id": "n7504707748",
       "type": "rss",
-      "title": "π0引用的中国团队，又出手了：世界仿真器新作发布",
+      "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/474838.html",
-      "date": "8/19",
-      "summary": "给机器人造一个更接近真实的“第二世界”"
+      "url": "https://www.qbitai.com/2026/08/475907.html",
+      "date": "8/20",
+      "summary": "超维动力KAI全栈具身智能硬核登场"
     },
     {
-      "id": "n5737689947",
+      "id": "n6065072072",
       "type": "rss",
-      "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
+      "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/474840.html",
-      "date": "8/19",
-      "summary": "8月17日，阿里巴巴发布AI音乐模型HappyShrimp"
+      "url": "https://www.qbitai.com/2026/08/475901.html",
+      "date": "8/20",
+      "summary": "凭借企业级智能体与AI安全的全栈布局，360成为中国人工智能产业发展的代表企业之一。"
     },
     {
-      "id": "n7351542691",
+      "id": "n7658167479",
       "type": "rss",
-      "title": "6个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
+      "title": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/474806.html",
-      "date": "8/19",
-      "summary": "代码能跑≠游戏能玩"
+      "url": "https://www.qbitai.com/2026/08/475477.html",
+      "date": "8/20",
+      "summary": "构建全栈物理AI基础设施"
     },
     {
-      "id": "n501303311",
+      "id": "n8754826873",
       "type": "rss",
-      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-      "src": "The Verge AI",
-      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-      "date": "8/19",
-      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Willi"
+      "title": "用DeepSeek网页版就能瓜分鹅厂600万？？！",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/475764.html",
+      "date": "8/20",
+      "summary": "冠军姿势长这样"
     },
     {
-      "id": "n6187654781",
+      "id": "n144696124",
       "type": "rss",
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "src": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "date": "8/19",
-      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and al"
+      "title": "Universality of Gradient Descent Neural Network Training",
+      "src": "Hacker News",
+      "url": "https://arxiv.org/abs/2007.13664",
+      "date": "8/20",
+      "summary": "Article URL: https://arxiv.org/abs/2007.13664 Comments URL: https://news.ycombinator.com/item?id=49368828 Points: 7 # Comments: 1"
     },
     {
-      "id": "n5440571027",
+      "id": "n193514588",
       "type": "rss",
-      "title": "Firefox&#8217;s Smart Window promises a better AI browser",
-      "src": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
-      "date": "8/19",
-      "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest t"
+      "title": "Collaborative Human Agent Protocol (CHAP)",
+      "src": "Hacker News",
+      "url": "https://github.com/BrightbeamAI/chap",
+      "date": "8/20",
+      "summary": "Article URL: https://github.com/BrightbeamAI/chap Comments URL: https://news.ycombinator.com/item?id=49367836 Points: 19 # Comments: 3"
     },
     {
-      "id": "n5883578750",
+      "id": "n6084022944",
       "type": "rss",
-      "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
-      "src": "The Verge AI",
-      "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
-      "date": "8/19",
-      "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspac"
+      "title": "Feature Request: Support AGENTS.md",
+      "src": "Hacker News",
+      "url": "https://github.com/anthropics/claude-code/issues/6235",
+      "date": "8/20",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/6235 Comments URL: https://news.ycombinator.com/item?id=49367350 Points: 137 # Comments: 77"
     }
   ],
   "jobs": [
@@ -267,6 +267,6 @@
       "fresh": true
     }
   ],
-  "newsUpdated": "更新于 8/19",
+  "newsUpdated": "更新于 8/20",
   "jobsUpdated": "更新于 8/14"
 }
