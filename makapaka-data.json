@@ -1,76 +1,76 @@
 {
   "news": [
     {
-      "id": "n4424354009",
+      "id": "n6837950850",
       "type": "rss",
-      "title": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家",
+      "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/476280.html",
-      "date": "8/21",
-      "summary": ""
+      "url": "https://www.qbitai.com/2026/08/476733.html",
+      "date": "8/22",
+      "summary": "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。"
     },
     {
-      "id": "n1272519422",
+      "id": "n3018200593",
       "type": "rss",
-      "title": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界",
+      "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/476281.html",
-      "date": "8/21",
-      "summary": "韶音宣布与光帆科技达成AI技术合作，将上线基于光帆自研AI OS的效率功能合集——\"AI 实验室\""
+      "url": "https://www.qbitai.com/2026/08/476628.html",
+      "date": "8/22",
+      "summary": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会"
     },
     {
-      "id": "n9004380359",
+      "id": "n7364604801",
       "type": "rss",
-      "title": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5",
+      "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/476199.html",
-      "date": "8/21",
-      "summary": "经典RSI剧本开始动摇"
+      "url": "https://www.qbitai.com/2026/08/476596.html",
+      "date": "8/22",
+      "summary": "机器人看3秒演示就能学会"
     },
     {
-      "id": "n7442754404",
+      "id": "n8181998817",
       "type": "rss",
-      "title": "攻克行业级柔性操作难题！招商局狮子山人工智能实验室首次亮相WRC 2026",
+      "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/476129.html",
-      "date": "8/21",
-      "summary": "全栈自研，真机叠衣ICRA夺冠"
+      "url": "https://www.qbitai.com/2026/08/476591.html",
+      "date": "8/22",
+      "summary": "让科学家的时间回到科学创造"
     },
     {
-      "id": "n9121770891",
+      "id": "n9832373854",
       "type": "rss",
-      "title": "宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？",
+      "title": "设计无边界！中坚科技旗下子公司桦之坚携巨型概念机器人ZERO惊艳2026世界机器人大会",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/476120.html",
-      "date": "8/21",
-      "summary": "这几个玩家或可被“押注”"
+      "url": "https://www.qbitai.com/2026/08/476525.html",
+      "date": "8/22",
+      "summary": "中坚科技（002779.SZ）旗下桦之坚携概念人形机器人ZERO亮相2026世界机器人大会。"
     },
     {
-      "id": "n3463058870",
+      "id": "n9801512853",
       "type": "rss",
-      "title": "墨奇亮相WRC：一台机器人长程任务实战背后的“具身大脑”革命",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/476078.html",
-      "date": "8/21",
-      "summary": "墨奇智能（MORPHI）首次在国内系统亮相，公开展示其新近发布的具身智能模型架构MoRA"
-    },
-    {
-      "id": "n6861467474",
-      "type": "rss",
-      "title": "Berkeley Law prohibits AI use in classes (by default)",
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
       "src": "Hacker News",
-      "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
-      "date": "8/21",
-      "summary": "Article URL: https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/ Comments URL: https://news.ycombinator.com/item?id=49382614 Points: 6 # Comments: 1"
+      "url": "https://ozbrain.com",
+      "date": "8/22",
+      "summary": "I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me.A lot of the “knowledge” ie researc"
     },
     {
-      "id": "n87545683",
+      "id": "n1419434883",
       "type": "rss",
-      "title": "It is a sign of the times that Amazon gets to call this fair use",
-      "src": "Hacker News",
-      "url": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
-      "date": "8/21",
-      "summary": "Article URL: http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html Comments URL: https://news.ycombinator.com/item?id=49382200 Points: 69 # Comments: 30"
+      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+      "src": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "date": "8/22",
+      "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a mil"
+    },
+    {
+      "id": "n6744254375",
+      "type": "rss",
+      "title": "Major YouTube creators are facing backlash for accepting AI money",
+      "src": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "date": "8/22",
+      "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The vide"
     }
   ],
   "jobs": [
@@ -267,6 +267,6 @@
       "fresh": true
     }
   ],
-  "newsUpdated": "更新于 8/21",
+  "newsUpdated": "更新于 8/22",
   "jobsUpdated": "更新于 8/14"
 }
