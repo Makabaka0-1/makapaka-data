@@ -1,76 +1,76 @@
 {
   "news": [
     {
-      "id": "n6837950850",
+      "id": "n8488575306",
       "type": "rss",
-      "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
+      "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/476733.html",
-      "date": "8/22",
-      "summary": "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。"
+      "url": "https://www.qbitai.com/2026/08/477253.html",
+      "date": "8/23",
+      "summary": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？"
     },
     {
-      "id": "n3018200593",
+      "id": "n1005948991",
       "type": "rss",
-      "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
+      "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/476628.html",
-      "date": "8/22",
-      "summary": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会"
+      "url": "https://www.qbitai.com/2026/08/477246.html",
+      "date": "8/23",
+      "summary": "直击WRC"
     },
     {
-      "id": "n7364604801",
+      "id": "n1992344250",
       "type": "rss",
-      "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
+      "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/476596.html",
-      "date": "8/22",
-      "summary": "机器人看3秒演示就能学会"
+      "url": "https://www.qbitai.com/2026/08/477155.html",
+      "date": "8/23",
+      "summary": "一脑驱动多形落地"
     },
     {
-      "id": "n8181998817",
+      "id": "n7527202846",
       "type": "rss",
-      "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
+      "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/476591.html",
-      "date": "8/22",
-      "summary": "让科学家的时间回到科学创造"
+      "url": "https://www.qbitai.com/2026/08/476965.html",
+      "date": "8/23",
+      "summary": ""
     },
     {
-      "id": "n9832373854",
+      "id": "n5829762468",
       "type": "rss",
-      "title": "设计无边界！中坚科技旗下子公司桦之坚携巨型概念机器人ZERO惊艳2026世界机器人大会",
+      "title": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/476525.html",
-      "date": "8/22",
-      "summary": "中坚科技（002779.SZ）旗下桦之坚携概念人形机器人ZERO亮相2026世界机器人大会。"
+      "url": "https://www.qbitai.com/2026/08/476930.html",
+      "date": "8/23",
+      "summary": "让具身智能技术真正落地千行万业。"
     },
     {
-      "id": "n9801512853",
+      "id": "n4097238915",
       "type": "rss",
-      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "title": "NanoGPT Speedrun Frontier",
       "src": "Hacker News",
-      "url": "https://ozbrain.com",
-      "date": "8/22",
-      "summary": "I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me.A lot of the “knowledge” ie researc"
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "date": "8/23",
+      "summary": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 50 # Comments: 15"
     },
     {
-      "id": "n1419434883",
+      "id": "n1990105656",
       "type": "rss",
-      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-      "src": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-      "date": "8/22",
-      "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a mil"
+      "title": "NetBSD and my life (2005)",
+      "src": "Hacker News",
+      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "date": "8/23",
+      "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 98 # Comments: 25"
     },
     {
-      "id": "n6744254375",
+      "id": "n3470767123",
       "type": "rss",
-      "title": "Major YouTube creators are facing backlash for accepting AI money",
-      "src": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-      "date": "8/22",
-      "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The vide"
+      "title": "Why your local LLM feels dumber than it is",
+      "src": "Hacker News",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "date": "8/23",
+      "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 193 # Comments: 66"
     }
   ],
   "jobs": [
@@ -267,6 +267,6 @@
       "fresh": true
     }
   ],
-  "newsUpdated": "更新于 8/22",
+  "newsUpdated": "更新于 8/23",
   "jobsUpdated": "更新于 8/14"
 }
