@@ -60,15 +60,21 @@ def clean(html):
     return re.sub(r"\s+", " ", text).strip()
 
 
-def is_relevant(title, summary):
+COMPREHENSIVE = {"36氪", "IT之家"}  # 综合科技源，需限定大厂避免消费电子噪音
+
+def is_relevant(src, title, summary):
     """筛选：AI 技术动态，或 大厂组织/人事变动"""
     blob = (title + " " + summary).lower()
-    # 1) AI 技术类：含任一 AI 关键词
-    if any(k in blob for k in AI_KEYWORDS):
-        return True
-    # 2) 大厂人事/组织动态类：同时含大厂名 + 人事关键词
     has_big = any(k in blob for k in BIGTECH)
     has_hr = any(k in blob for k in HR_KEYWORDS)
+    # 综合源（36氪/IT之家）：必须大厂相关，避免小品牌消费电子混入
+    if src in COMPREHENSIVE:
+        if not has_big:
+            return False
+        return any(k in blob for k in AI_KEYWORDS) or has_hr
+    # 专业 AI 源：AI 技术词 或 (大厂 + 人事)
+    if any(k in blob for k in AI_KEYWORDS):
+        return True
     if has_big and has_hr:
         return True
     return False
@@ -92,7 +98,7 @@ def main():
             summary = clean(e.get("summary", ""))[:220]
             if not title or not link or link in seen_links:
                 continue
-            if not is_relevant(title, summary):
+            if not is_relevant(src, title, summary):
                 continue
             seen_links.add(link)
             # 标记分类，方便前端区分「技术」与「人事动态」
