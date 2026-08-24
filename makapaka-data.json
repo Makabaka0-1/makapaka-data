@@ -1,76 +1,104 @@
 {
   "news": [
     {
-      "id": "n2701810013",
+      "id": "n9846512342",
       "type": "rss",
+      "category": "技术",
+      "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478473.html",
+      "date": "8/24",
+      "summary": "8月24日消息，阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断AI模型DAMO LiON"
+    },
+    {
+      "id": "n9565524670",
+      "type": "rss",
+      "category": "技术",
+      "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478469.html",
+      "date": "8/24",
+      "summary": "定义国产推理算力新范式 赋能万卡级AI推理算力规模化落地"
+    },
+    {
+      "id": "n7438879517",
+      "type": "rss",
+      "category": "技术",
+      "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478427.html",
+      "date": "8/24",
+      "summary": "8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。"
+    },
+    {
+      "id": "n3521805108",
+      "type": "rss",
+      "category": "技术",
+      "title": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478421.html",
+      "date": "8/24",
+      "summary": ""
+    },
+    {
+      "id": "n4963768244",
+      "type": "rss",
+      "category": "技术",
+      "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478358.html",
+      "date": "8/24",
+      "summary": "Tim和胡彦斌亲自颁奖"
+    },
+    {
+      "id": "n9479498688",
+      "type": "rss",
+      "category": "技术",
+      "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478319.html",
+      "date": "8/24",
+      "summary": "玩的就是真实"
+    },
+    {
+      "id": "n1496516751",
+      "type": "rss",
+      "category": "动态",
+      "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478234.html",
+      "date": "8/24",
+      "summary": "多多支持像王兴兴这样优秀的具身机器人创业者"
+    },
+    {
+      "id": "n2113000366",
+      "type": "rss",
+      "category": "技术",
+      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478191.html",
+      "date": "8/24",
+      "summary": "Tokenizer、视频编码、API报错全扒一遍"
+    },
+    {
+      "id": "n9549026577",
+      "type": "rss",
+      "category": "技术",
+      "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+      "src": "Hacker News",
+      "url": "https://skylens.yantraai.app/",
+      "date": "8/24",
+      "summary": "Article URL: https://skylens.yantraai.app/ Comments URL: https://news.ycombinator.com/item?id=49407309 Points: 36 # Comments: 17"
+    },
+    {
+      "id": "n4032831168",
+      "type": "rss",
+      "category": "技术",
       "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
       "src": "The Verge AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
       "date": "8/24",
       "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a mil"
-    },
-    {
-      "id": "n5524708057",
-      "type": "rss",
-      "title": "Major YouTube creators are facing backlash for accepting AI money",
-      "src": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-      "date": "8/24",
-      "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The vide"
-    },
-    {
-      "id": "n2736596175",
-      "type": "rss",
-      "title": "Google Discover is getting an AI chatbot-tuned feed",
-      "src": "The Verge AI",
-      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-      "date": "8/24",
-      "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"rememb"
-    },
-    {
-      "id": "n9078826755",
-      "type": "rss",
-      "title": "It’s Greg Brockman’s OpenAI now",
-      "src": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "date": "8/24",
-      "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after"
-    },
-    {
-      "id": "n5258660040",
-      "type": "rss",
-      "title": "Welcome to the AI crisis in math",
-      "src": "The Verge AI",
-      "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-      "date": "8/24",
-      "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI jus"
-    },
-    {
-      "id": "n2328750805",
-      "type": "rss",
-      "title": "Slack is launching collaborative vibe-coding channels",
-      "src": "The Verge AI",
-      "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-      "date": "8/24",
-      "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels "
-    },
-    {
-      "id": "n7002537247",
-      "type": "rss",
-      "title": "Google Gemini is getting a dedicated student hub",
-      "src": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-      "date": "8/24",
-      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice qui"
-    },
-    {
-      "id": "n8547924094",
-      "type": "rss",
-      "title": "OpenAI hit the brakes. Now what?",
-      "src": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-      "date": "8/24",
-      "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had "
     }
   ],
   "jobs": [
