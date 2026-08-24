@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-从公开 RSS 源抓取 AI / 大模型 / 科技新闻，写入 makapaka-data.json。
-求职推送部分保留仓库内已有的常驻秋招岗位（秋招季岗位稳定），
-仅在前一天有新增时才更新 jobs 字段。
+从公开 RSS 源抓取行业动态，写入 makapaka-data.json。
+内容范围：
+  1. 大厂 / 国内著名 AI 公司的技术动态（模型更新、产品发布等）
+  2. 大厂组织 / 人事变动（高管离职、入职、组织架构调整等）
+求职推送部分保留仓库内已有的常驻秋招岗位。
 
 运行环境：GitHub Actions（有网络、可 pip install feedparser）。
-本地也可直接 `python update_data.py` 测试（需先 checkout 仓库）。
 """
 import feedparser
 import json
@@ -15,17 +16,41 @@ import datetime
 import os
 
 FEEDS = [
+    # 国内 AI 专业媒体（模型更新 / 技术动态）
     ("量子位",        "https://www.qbitai.com/feed"),
     ("机器之心",      "https://www.jiqizhixin.com/rss"),
+    # 国内科技综合媒体（大厂组织 / 人事变动）
+    ("36氪",          "https://36kr.com/feed"),
+    ("IT之家",        "https://www.ithome.com/rss/"),
+    # 海外 AI / 科技
     ("Hacker News",   "https://hnrss.org/frontpage"),
     ("The Verge AI",  "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"),
     ("TechCrunch AI", "https://techcrunch.com/category/artificial-intelligence/feed/"),
 ]
 
 NEWS_FILE = "makapaka-data.json"
+
+# AI 技术关键词
 AI_KEYWORDS = ["ai", "大模型", "模型", "智能体", "agent", "gpt", "gemini",
                "deepseek", "openai", "anthropic", "llm", "机器学习", "神经网络",
-               "chatgpt", "claude", "人工智能", "芯片", "算力", "机器人"]
+               "chatgpt", "claude", "人工智能", "芯片", "算力", "机器人",
+               "多模态", "vlm", "diffusion", "sora", "scaling"]
+
+# 大厂 / 国内著名 AI 公司名
+BIGTECH = ["阿里", "阿里巴巴", "阿里云", "通义", "字节", "抖音", "飞书", "豆包",
+           "腾讯", "混元", "百度", "文心", "美团", "京东", "小米", "华为", "盘古",
+           "网易", "快手", "拼多多", "滴滴", "b站", "哔哩哔哩", "微软", "谷歌", "google",
+           "meta", "facebook", "苹果", "apple", "openai", "anthropic", "deepseek",
+           "月之暗面", "kimi", "智谱", "百川", "商汤", "旷视", "科大讯飞", "mistral",
+           "perplexity", "阶跃", "minimax", "零一", "出门问问", "面壁", "蔚来",
+           "理想", "小鹏", "大疆", "联发科", "英伟达", "nvidia"]
+
+# 人事 / 组织变动关键词
+HR_KEYWORDS = ["离职", "辞任", "卸任", "辞去", "加盟", "入职", "出任",
+               "升任", "履新", "任命", "调任", "轮岗", "转岗", "组织架构", "人事变动",
+               "高管", "总裁", "副总裁", "ceo", "cto", "cfo", "coo", "合伙人",
+               "架构调整", "业务调整", "裁员", "优化", "毕业", "反腐", "被查",
+               "创业"]
 
 
 def clean(html):
@@ -35,9 +60,18 @@ def clean(html):
     return re.sub(r"\s+", " ", text).strip()
 
 
-def is_ai_related(title, summary):
+def is_relevant(title, summary):
+    """筛选：AI 技术动态，或 大厂组织/人事变动"""
     blob = (title + " " + summary).lower()
-    return any(k in blob for k in AI_KEYWORDS)
+    # 1) AI 技术类：含任一 AI 关键词
+    if any(k in blob for k in AI_KEYWORDS):
+        return True
+    # 2) 大厂人事/组织动态类：同时含大厂名 + 人事关键词
+    has_big = any(k in blob for k in BIGTECH)
+    has_hr = any(k in blob for k in HR_KEYWORDS)
+    if has_big and has_hr:
+        return True
+    return False
 
 
 def main():
@@ -52,28 +86,32 @@ def main():
             d = feedparser.parse(url)
         except Exception:
             continue
-        for e in d.entries[:8]:
+        for e in d.entries[:10]:
             title = clean(e.get("title", ""))
             link = e.get("link", "")
             summary = clean(e.get("summary", ""))[:220]
             if not title or not link or link in seen_links:
                 continue
-            if not is_ai_related(title, summary):
+            if not is_relevant(title, summary):
                 continue
             seen_links.add(link)
+            # 标记分类，方便前端区分「技术」与「人事动态」
+            blob = (title + " " + summary).lower()
+            category = "动态" if any(k in blob for k in HR_KEYWORDS) else "技术"
             news.append({
                 "id": "n" + str(abs(hash(link)) % 10**10),
                 "type": "rss",
+                "category": category,
                 "title": title,
                 "src": src,
                 "url": link,
                 "date": date_str,
                 "summary": summary,
             })
-        if len(news) >= 10:
+        if len(news) >= 12:
             break
 
-    news = news[:8]
+    news = news[:10]
 
     # 读取仓库内已有数据，保留常驻求职岗位
     data = {}
