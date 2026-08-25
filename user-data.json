@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T11:33:16.973Z",
+  "updatedAt": "2026-08-25T11:36:55.594Z",
   "data": {
     "free-state": {
       "v": [
@@ -96,6 +96,14 @@
     },
     "hr_board_terms": {
       "v": [
+        {
+          "id": 27,
+          "zh": "视觉变换器",
+          "en": "ViT（Vision Transformer ）",
+          "desc": "把自然语言处理（NLP）中极其成功的 Transformer 架构，直接“搬运”到图像识别任务上，用处理“句子”的方式来处理“图片”。",
+          "cat": "训练技术",
+          "freq": "高"
+        },
         {
           "id": 26,
           "zh": "分布式训练",
