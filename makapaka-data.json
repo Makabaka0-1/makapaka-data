@@ -1,84 +1,104 @@
 {
   "news": [
     {
-      "id": "n178756293192133",
+      "id": "n1697855245",
+      "type": "rss",
+      "category": "动态",
+      "title": "ResNet作者任少卿机器人创业！公司注册就独角兽了",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478675.html",
+      "date": "8/25",
+      "summary": "虽然明确机器人创业，但依然在职蔚来"
+    },
+    {
+      "id": "n2706719082",
+      "type": "rss",
+      "category": "动态",
+      "title": "AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478670.html",
+      "date": "8/25",
+      "summary": "Visa看到的AI未来"
+    },
+    {
+      "id": "n614688819",
       "type": "rss",
       "category": "技术",
-      "title": "Arena 第34周盲测榜：智谱 GLM-5.3-Max 首入榜杀入综合榜第13，Kimi K3-Max 升至第10",
+      "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478568.html",
+      "date": "8/25",
+      "summary": "全球大厂开始押注的AI科研，终于有了统一标准"
+    },
+    {
+      "id": "n8160824568",
+      "type": "rss",
+      "category": "技术",
+      "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478473.html",
+      "date": "8/25",
+      "summary": "8月24日消息，阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断AI模型DAMO LiON"
+    },
+    {
+      "id": "n5524866686",
+      "type": "rss",
+      "category": "技术",
+      "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478469.html",
+      "date": "8/25",
+      "summary": "定义国产推理算力新范式 赋能万卡级AI推理算力规模化落地"
+    },
+    {
+      "id": "n7200807075",
+      "type": "rss",
+      "category": "技术",
+      "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478427.html",
+      "date": "8/25",
+      "summary": "8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。"
+    },
+    {
+      "id": "n1811937866",
+      "type": "rss",
+      "category": "技术",
+      "title": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478421.html",
+      "date": "8/25",
+      "summary": ""
+    },
+    {
+      "id": "n7102007695",
+      "type": "rss",
+      "category": "技术",
+      "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478358.html",
+      "date": "8/25",
+      "summary": "Tim和胡彦斌亲自颁奖"
+    },
+    {
+      "id": "n7621837344",
+      "type": "rss",
+      "category": "技术",
+      "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478319.html",
+      "date": "8/25",
+      "summary": "玩的就是真实"
+    },
+    {
+      "id": "n1831173896",
+      "type": "rss",
+      "category": "技术",
+      "title": "宏碁非凡 Go Air 轻薄本发售：酷睿 5 320 + 12GB + 512GB，国补后 4249.15 元",
       "src": "IT之家",
-      "url": "https://www.ithome.com/",
-      "date": "8/24",
-      "summary": "国产模型多点突破：GLM-5.3-Max 首秀综合榜第13、代码榜第10，Kimi K3-Max 综合榜首进前十，字节 dreamina-seedance-2.5 进 AI 视频榜前五。"
-    },
-    {
-      "id": "n178756293192171",
-      "type": "rss",
-      "category": "技术",
-      "title": "日媒发布全球生成式AI实力调查：月之暗面 Kimi K3 综合跃居全球第6",
-      "src": "日本经济新闻 / 微博",
-      "url": "https://weibo.com/",
-      "date": "8/24",
-      "summary": "NIKKEI 与 Weights&Biases 联合报告显示 Kimi K3 综合第6，智谱 GLM-5.2 第18、稀宇 M3 第28 等中国模型跻身前列，开源低成本成共同优势。"
-    },
-    {
-      "id": "n178756293192116",
-      "type": "rss",
-      "category": "技术",
-      "title": "DeepSeek 上线首个多模态视觉模型 DeepSeek-V4-Flash-Vision-Exp",
-      "src": "DeepSeek / AI周报",
-      "url": "https://api-docs.deepseek.com/",
-      "date": "8/21",
-      "summary": "DeepSeek 首次支持图片输入，兼容 OpenAI/Anthropic API 与免费 Files API，多模态 Agent 基准接近 Claude Opus 4.8，定价与 V4-Flash 一致。"
-    },
-    {
-      "id": "n178756293192154",
-      "type": "rss",
-      "category": "技术",
-      "title": "Google 推出 Gemini 3.7 Flash，同步上线 GitHub Copilot",
-      "src": "Google DeepMind",
-      "url": "https://deepmind.google/technologies/gemini/",
-      "date": "8/13",
-      "summary": "定义“编码与智能体最智能的 Flash 级主力”，软件工程基准 65.3%，100万 token 上下文，支持文本/图像/音频/视频，覆盖主流 IDE。"
-    },
-    {
-      "id": "n178756293192183",
-      "type": "rss",
-      "category": "技术",
-      "title": "Anthropic 将 Computer Use、Browser Use、Skills API、Files API 转正为 GA",
-      "src": "Anthropic",
-      "url": "https://www.anthropic.com/news",
-      "date": "8/20",
-      "summary": "Computer Use 支持批量多动作、Browser Use 改用无障碍树点击提升精度，Skills/Files API 去除 beta 标签，Files API 新增自动过期。"
-    },
-    {
-      "id": "n178756293192166",
-      "type": "rss",
-      "category": "动态",
-      "title": "阿里巴巴启动 800 亿港元股份配售，净募资 100% 投向“全栈 AI”",
-      "src": "路透社",
-      "url": "https://www.reuters.com/",
-      "date": "8/23",
-      "summary": "募资用于芯片、算力/数据中心、模型研发与部署，或成港股最大一级市场后续发行；阿里称 AI 投资回收周期由三年缩至约两年半。"
-    },
-    {
-      "id": "n178756293192168",
-      "type": "rss",
-      "category": "动态",
-      "title": "阿里 2027 财年 Q1 财报：云外部收入增 45% 创 22 季新高，全栈 AI 商业化兑现",
-      "src": "北京商报",
-      "url": "https://www.bbtnews.com.cn/",
-      "date": "8/24",
-      "summary": "AI 相关产品连续 12 季三位数增长（123.76 亿元），平头哥真武 M890 已服务 650+ 外部客户，Qwen3.8 全球下载超 30 亿次。"
-    },
-    {
-      "id": "n178756293192129",
-      "type": "rss",
-      "category": "动态",
-      "title": "OpenAI 高管警告：更强 AI 或把网络攻击推向“持续化”，主张前沿模型强制安全标准",
-      "src": "卫报 / AI日报",
-      "url": "https://www.theguardian.com/technology",
-      "date": "8/23",
-      "summary": "AI 竞争从模型能力转向成本/运行效率/风险边界管理；同日 DeepSeek 周末全天低谷计费规则正式生效，Anthropic 高价模型企业占比约 11%。"
+      "url": "https://www.ithome.com/0/993/845.htm",
+      "date": "8/25",
+      "summary": "IT之家 8 月 25 日消息，宏碁 (Acer) 现已发售搭载英特尔酷睿 5 处理器 320 的非凡 Go Air 轻薄笔记本电脑。其配备 12GB LPDDR5 内存和 512GB SSD 存储，标价 4999 元，国家补贴后到手价低至 4249.15 元。京东宏碁 非凡 Go Air 轻薄本低至 4249.15 元直达链接2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。数码补贴：点"
     }
   ],
   "jobs": [
@@ -323,6 +343,6 @@
       "fresh": true
     }
   ],
-  "newsUpdated": "更新于 8/24",
+  "newsUpdated": "更新于 8/25",
   "jobsUpdated": "更新于 8/24"
 }
