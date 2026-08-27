@@ -1,104 +1,104 @@
 {
   "news": [
     {
-      "id": "n8067406306",
+      "id": "n6098676909",
       "type": "rss",
       "category": "技术",
-      "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
+      "title": "基元律动累计融资数千万美元，推出“中国版OpenRouter”",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/479314.html",
-      "date": "8/26",
-      "summary": "近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段。"
+      "url": "https://www.qbitai.com/2026/08/480079.html",
+      "date": "8/27",
+      "summary": "近日，AI基础设施公司基元律动（TokenRhythm）宣布完成新一轮融资，融资额达数千万美元。"
     },
     {
-      "id": "n4033120329",
+      "id": "n2312156566",
       "type": "rss",
       "category": "技术",
-      "title": "开源国产8B模型，比肩闭源Image 2了！",
+      "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/479192.html",
-      "date": "8/26",
-      "summary": "SenseNova U1.5 Lite"
+      "url": "https://www.qbitai.com/2026/08/480005.html",
+      "date": "8/27",
+      "summary": "西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。"
     },
     {
-      "id": "n8143084948",
+      "id": "n3958693711",
       "type": "rss",
       "category": "技术",
-      "title": "半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司",
+      "title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/479132.html",
-      "date": "8/26",
-      "summary": "字节、汇川等已入股未来不远机器人最新一轮融资"
+      "url": "https://www.qbitai.com/2026/08/480001.html",
+      "date": "8/27",
+      "summary": "8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。"
     },
     {
-      "id": "n374853704",
+      "id": "n269087747",
       "type": "rss",
       "category": "技术",
-      "title": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
+      "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/479096.html",
-      "date": "8/26",
-      "summary": "AI科研能力从工具级转向系统级"
+      "url": "https://www.qbitai.com/2026/08/479919.html",
+      "date": "8/27",
+      "summary": "GLM-5.3 Flash"
     },
     {
-      "id": "n8994186119",
+      "id": "n2931236045",
       "type": "rss",
       "category": "技术",
-      "title": "赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”",
+      "title": "AI视频应用井喷，美图打开新的增长空间",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/478996.html",
-      "date": "8/26",
-      "summary": "下一代Agent天然会走向云端和更大规模的计算资源"
+      "url": "https://www.qbitai.com/2026/08/479895.html",
+      "date": "8/27",
+      "summary": "从图像到视频，美图找到了一门更赚钱的生意"
     },
     {
-      "id": "n2714172709",
+      "id": "n4491795386",
       "type": "rss",
       "category": "技术",
-      "title": "人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机",
+      "title": "小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/478839.html",
-      "date": "8/26",
-      "summary": "2026年8月21日，小猿学习机在京举办“中小学课本学习智能体”首发上线活动。"
+      "url": "https://www.qbitai.com/2026/08/479811.html",
+      "date": "8/27",
+      "summary": "AI内容创作者增长187%，相关节目数量增长239%"
     },
     {
-      "id": "n5460155373",
+      "id": "n6095854454",
       "type": "rss",
       "category": "技术",
-      "title": "WAIC CONNECT | AI出海，不聊虚的！CONNECT带你拿下马来西亚真正的AI采购需求",
+      "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/478479.html",
-      "date": "8/26",
-      "summary": "2026年9月7日–8日，WAIC CONNECT MALAYSIA活动，将在吉隆坡盛大开启！"
+      "url": "https://www.qbitai.com/2026/08/479834.html",
+      "date": "8/27",
+      "summary": "具身智能迈向GPT时刻"
     },
     {
-      "id": "n8163425535",
+      "id": "n1802280647",
       "type": "rss",
       "category": "技术",
-      "title": "具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜",
+      "title": "刚刚，Top级的视频AI免费了！我反手做了个精致版《牛来》",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/478791.html",
-      "date": "8/26",
-      "summary": "机器人大脑新SOTA"
+      "url": "https://www.qbitai.com/2026/08/479670.html",
+      "date": "8/27",
+      "summary": "Agnes Video 2.5 Flash"
     },
     {
-      "id": "n2815128153",
+      "id": "n3069487210",
       "type": "rss",
       "category": "技术",
-      "title": "VC开始靠AI预测未来了",
+      "title": "宇树智元共用一个大脑！神秘模型Demo炸场，10分钟一镜到底",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/478774.html",
-      "date": "8/26",
-      "summary": "FutureX榜单前十占了仨"
+      "url": "https://www.qbitai.com/2026/08/479634.html",
+      "date": "8/27",
+      "summary": ""
     },
     {
-      "id": "n7963529606",
+      "id": "n3216598301",
       "type": "rss",
       "category": "技术",
-      "title": "The brain may be about to have its Ozempic moment",
+      "title": "Laion Big Video Dataset",
       "src": "Hacker News",
-      "url": "https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
-      "date": "8/26",
-      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment Comments URL: https://news.ycombinator.com/item?id=49442743 Points: 23 # Comments: 12"
+      "url": "https://projects.laion.ai/bvd/",
+      "date": "8/27",
+      "summary": "Article URL: https://projects.laion.ai/bvd/ Comments URL: https://news.ycombinator.com/item?id=49458478 Points: 67 # Comments: 18"
     }
   ],
   "jobs": [
@@ -343,6 +343,6 @@
       "fresh": true
     }
   ],
-  "newsUpdated": "更新于 8/26",
+  "newsUpdated": "更新于 8/27",
   "jobsUpdated": "更新于 8/24"
 }
