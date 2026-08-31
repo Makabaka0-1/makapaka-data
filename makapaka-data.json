@@ -1,104 +1,104 @@
 {
   "news": [
     {
-      "id": "n9190520976",
+      "id": "n1824179571",
+      "type": "rss",
+      "category": "技术",
+      "title": "「GPT-6」灰测demo刷屏！周四发布在即",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/481893.html",
+      "date": "8/31",
+      "summary": "核弹爆炸"
+    },
+    {
+      "id": "n8286822029",
+      "type": "rss",
+      "category": "技术",
+      "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/481759.html",
+      "date": "8/31",
+      "summary": "什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac"
+    },
+    {
+      "id": "n1980048867",
+      "type": "rss",
+      "category": "技术",
+      "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/481750.html",
+      "date": "8/31",
+      "summary": "灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。"
+    },
+    {
+      "id": "n4385457572",
+      "type": "rss",
+      "category": "技术",
+      "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/481475.html",
+      "date": "8/31",
+      "summary": "自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。"
+    },
+    {
+      "id": "n5575657116",
       "type": "rss",
       "category": "技术",
       "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/08/481372.html",
-      "date": "8/30",
+      "date": "8/31",
       "summary": "推理软件栈的微小差异，就能改变输出token"
     },
     {
-      "id": "n5891924217",
+      "id": "n7796153591",
       "type": "rss",
       "category": "技术",
       "title": "去年归国的徐梦迪，成了清华姚班班主任",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/08/481318.html",
-      "date": "8/30",
+      "date": "8/31",
       "summary": "本科读车辆工程，如今教AI第一班"
     },
     {
-      "id": "n2551502415",
+      "id": "n5941991200",
       "type": "rss",
       "category": "技术",
       "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/08/481223.html",
-      "date": "8/30",
+      "date": "8/31",
       "summary": "AI「自进化」，越来越近了"
     },
     {
-      "id": "n2445430634",
-      "type": "rss",
-      "category": "技术",
-      "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/480787.html",
-      "date": "8/30",
-      "summary": "从剧本到成片"
-    },
-    {
-      "id": "n9534279849",
-      "type": "rss",
-      "category": "技术",
-      "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/480666.html",
-      "date": "8/30",
-      "summary": "久久不愿来到台前的智元掌舵人"
-    },
-    {
-      "id": "n7736778175",
-      "type": "rss",
-      "category": "技术",
-      "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/480600.html",
-      "date": "8/30",
-      "summary": "企业智能化服务撑起基本盘，第二增长曲线冒头"
-    },
-    {
-      "id": "n7853685281",
+      "id": "n5092610795",
       "type": "rss",
       "category": "动态",
-      "title": "网易云音乐海报现鸿蒙 HarmonyOS：九月，宜听歌",
+      "title": "消息称微软 XBOX 与好莱坞各大制片厂洽谈，计划将《光环》《魔兽世界》等 IP 搬上大荧幕",
       "src": "IT之家",
-      "url": "https://www.ithome.com/0/996/126.htm",
-      "date": "8/30",
-      "summary": "IT之家 8 月 30 日消息，网易云音乐今日发布官方海报，其中出现 HarmonyOS 标志，官方配文：“九月，宜听歌。敬请期待。”IT之家注意到，近年来，关于“网易云音乐迟迟不适配鸿蒙”曾引发网友热议。谈及还未适配的原因，网易云音乐去年 11 月曾表示，“产品和技术团队也在马不停蹄地对应用进行进一步优化和完善，确保后期上架后，能给您带来更稳定、更流畅、更出色的使用体验。”此外，网易云音乐当时还回应称，“我们目前正在努力对鸿蒙版云音乐"
+      "url": "https://www.ithome.com/0/996/477.htm",
+      "date": "8/31",
+      "summary": "IT之家 8 月 31 日消息，据游戏媒体 MP1ST 前天报道，微软 XBOX 正在与好莱坞各大制片厂洽谈，希望将《光环》《魔兽世界》和《上古卷轴》等知名 IP 改编成电影或电视剧。据报道，环球影业、Netflix 和派拉蒙是当前最有兴趣达成协议的公司。XBOX CEO 阿莎 · 夏尔马及其他管理团队正在考虑，究竟是将这套 IP 的所有授权一次性出售给某家制片厂，还是将其拆分出售，避免总成本过高。据传，XBOX 希望通过长期协议获得 "
     },
     {
-      "id": "n674886515",
+      "id": "n7547660607",
       "type": "rss",
       "category": "技术",
-      "title": "消息称百度智能云分拆平台产品事业部：MaaS 划入基础设施、Agent 独立成军",
-      "src": "IT之家",
-      "url": "https://www.ithome.com/0/996/123.htm",
-      "date": "8/30",
-      "summary": "IT之家 8 月 30 日消息，据《晚点 LatePost》8 月 29 日报道，百度智能云近日完成一轮产研组织调整。原平台产品事业部更名为智能体事业部，其下 MaaS 业务、千帆品牌及与 MaaS 相关的产品体系转入基础设施事业部，数据平台部更名为数据智能部，转入由原应用产品事业部更名而来的智能应用事业部。调整后，百度智能云的三个事业部分别由侯震宇、殷大伟和阮瑜负责：侯震宇负责基础设施事业部，管理 AI Infra 和 Agent I"
-    },
-    {
-      "id": "n2988238941",
-      "type": "rss",
-      "category": "技术",
-      "title": "预估为 GPT-6 AI 模型：OpenAI Astra 首批演示样本流出，1 次交互生成类 GTA 2 游戏",
-      "src": "IT之家",
-      "url": "https://www.ithome.com/0/996/120.htm",
-      "date": "8/30",
-      "summary": "IT之家 8 月 30 日消息，科技媒体 testingcatalog 昨日（8 月 29 日）发布博文，报道称 OpenAI 正加快 Astra 模型发布进程，新增 mozaik-alpha-fdm 测试阶段，从而扩大内部测试范围。IT之家注：Astra 是 OpenAI 內部正在开发的新一代 AI 模型系列，代号延续其天体命名传统（Sol、Terra、Luna 之后），拉丁语意为“星辰”。据《The Information》等报道，"
-    },
-    {
-      "id": "n8281388473",
-      "type": "rss",
-      "category": "技术",
-      "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+      "title": "OpenClaw 2.0, Accidentally",
       "src": "Hacker News",
-      "url": "https://github.com/mk6i/open-oscar-server",
-      "date": "8/30",
-      "summary": "Article URL: https://github.com/mk6i/open-oscar-server Comments URL: https://news.ycombinator.com/item?id=49494571 Points: 19 # Comments: 7"
+      "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+      "date": "8/31",
+      "summary": "Article URL: https://openclaw.ai/blog/openclaw-2-accidentally Comments URL: https://news.ycombinator.com/item?id=49505310 Points: 53 # Comments: 41"
+    },
+    {
+      "id": "n5401320887",
+      "type": "rss",
+      "category": "技术",
+      "title": "P99 0 ms* autocomplete for 240M domain names",
+      "src": "Hacker News",
+      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+      "date": "8/31",
+      "summary": "Article URL: https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names Comments URL: https://news.ycombinator.com/item?id=49505219 Points: 58 # Comments: 26"
     }
   ],
   "jobs": [
@@ -343,6 +343,6 @@
       "fresh": true
     }
   ],
-  "newsUpdated": "更新于 8/30",
+  "newsUpdated": "更新于 8/31",
   "jobsUpdated": "更新于 8/24"
 }
