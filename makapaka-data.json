@@ -1,104 +1,104 @@
 {
   "news": [
     {
-      "id": "n1824179571",
+      "id": "n1209820006",
+      "type": "rss",
+      "category": "技术",
+      "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/482337.html",
+      "date": "9/1",
+      "summary": "参数冻结，能力暴涨"
+    },
+    {
+      "id": "n2648415836",
+      "type": "rss",
+      "category": "技术",
+      "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/482300.html",
+      "date": "9/1",
+      "summary": "连发六篇Nature期刊，复旦Neolab打通全尺度生命推演"
+    },
+    {
+      "id": "n404691988",
+      "type": "rss",
+      "category": "动态",
+      "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/481928.html",
+      "date": "9/1",
+      "summary": "划重点：这次不是你挨家敲门，是VC排队来看你。"
+    },
+    {
+      "id": "n4861363123",
+      "type": "rss",
+      "category": "技术",
+      "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/08/481919.html",
+      "date": "9/1",
+      "summary": ""
+    },
+    {
+      "id": "n2867268365",
       "type": "rss",
       "category": "技术",
       "title": "「GPT-6」灰测demo刷屏！周四发布在即",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/08/481893.html",
-      "date": "8/31",
+      "date": "9/1",
       "summary": "核弹爆炸"
     },
     {
-      "id": "n8286822029",
+      "id": "n3602135788",
       "type": "rss",
       "category": "技术",
       "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/08/481759.html",
-      "date": "8/31",
+      "date": "9/1",
       "summary": "什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac"
     },
     {
-      "id": "n1980048867",
+      "id": "n1735959981",
       "type": "rss",
       "category": "技术",
       "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/08/481750.html",
-      "date": "8/31",
+      "date": "9/1",
       "summary": "灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。"
     },
     {
-      "id": "n4385457572",
+      "id": "n4829557991",
       "type": "rss",
       "category": "技术",
       "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/08/481475.html",
-      "date": "8/31",
+      "date": "9/1",
       "summary": "自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。"
     },
     {
-      "id": "n5575657116",
+      "id": "n335247752",
       "type": "rss",
       "category": "技术",
       "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/08/481372.html",
-      "date": "8/31",
+      "date": "9/1",
       "summary": "推理软件栈的微小差异，就能改变输出token"
     },
     {
-      "id": "n7796153591",
+      "id": "n9148029998",
       "type": "rss",
       "category": "技术",
-      "title": "去年归国的徐梦迪，成了清华姚班班主任",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/481318.html",
-      "date": "8/31",
-      "summary": "本科读车辆工程，如今教AI第一班"
-    },
-    {
-      "id": "n5941991200",
-      "type": "rss",
-      "category": "技术",
-      "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/481223.html",
-      "date": "8/31",
-      "summary": "AI「自进化」，越来越近了"
-    },
-    {
-      "id": "n5092610795",
-      "type": "rss",
-      "category": "动态",
-      "title": "消息称微软 XBOX 与好莱坞各大制片厂洽谈，计划将《光环》《魔兽世界》等 IP 搬上大荧幕",
+      "title": "国产智能化工大模型 3.0 Pro 发布，中国科学院大连化物所、科大讯飞、阿里云等研发",
       "src": "IT之家",
-      "url": "https://www.ithome.com/0/996/477.htm",
-      "date": "8/31",
-      "summary": "IT之家 8 月 31 日消息，据游戏媒体 MP1ST 前天报道，微软 XBOX 正在与好莱坞各大制片厂洽谈，希望将《光环》《魔兽世界》和《上古卷轴》等知名 IP 改编成电影或电视剧。据报道，环球影业、Netflix 和派拉蒙是当前最有兴趣达成协议的公司。XBOX CEO 阿莎 · 夏尔马及其他管理团队正在考虑，究竟是将这套 IP 的所有授权一次性出售给某家制片厂，还是将其拆分出售，避免总成本过高。据传，XBOX 希望通过长期协议获得 "
-    },
-    {
-      "id": "n7547660607",
-      "type": "rss",
-      "category": "技术",
-      "title": "OpenClaw 2.0, Accidentally",
-      "src": "Hacker News",
-      "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-      "date": "8/31",
-      "summary": "Article URL: https://openclaw.ai/blog/openclaw-2-accidentally Comments URL: https://news.ycombinator.com/item?id=49505310 Points: 53 # Comments: 41"
-    },
-    {
-      "id": "n5401320887",
-      "type": "rss",
-      "category": "技术",
-      "title": "P99 0 ms* autocomplete for 240M domain names",
-      "src": "Hacker News",
-      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
-      "date": "8/31",
-      "summary": "Article URL: https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names Comments URL: https://news.ycombinator.com/item?id=49505219 Points: 58 # Comments: 26"
+      "url": "https://www.ithome.com/0/996/891.htm",
+      "date": "9/1",
+      "summary": "IT之家 9 月 1 日消息，由中国科学院大连化学物理研究所（以下简称“大连化物所”）联合科大讯飞股份有限公司（以下简称“科大讯飞”）、阿里云计算有限公司（以下简称“阿里云”）等共同研发的智能化工大模型 3.0 Pro（以下简称“3.0 Pro”）于 8 月 31 日正式发布。作为我国化工行业首个大模型的最新迭代版本，3.0 Pro 实现了从“专业知识问答模型”向“化工任务智能执行系统”的重要跨越，推动了智能化工大模型从“能理解、会回答"
     }
   ],
   "jobs": [
@@ -343,6 +343,6 @@
       "fresh": true
     }
   ],
-  "newsUpdated": "更新于 8/31",
+  "newsUpdated": "更新于 9/1",
   "jobsUpdated": "更新于 8/24"
 }
