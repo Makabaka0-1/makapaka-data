@@ -1,104 +1,104 @@
 {
   "news": [
     {
-      "id": "n1209820006",
+      "id": "n8283303781",
+      "type": "rss",
+      "category": "技术",
+      "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/482967.html",
+      "date": "9/2",
+      "summary": "AI客服日扛1.5万通电话"
+    },
+    {
+      "id": "n3970962441",
+      "type": "rss",
+      "category": "技术",
+      "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/482652.html",
+      "date": "9/2",
+      "summary": "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色"
+    },
+    {
+      "id": "n9512755846",
+      "type": "rss",
+      "category": "技术",
+      "title": "香港首个真实开放场景服务机器人落地兰桂坊",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/482855.html",
+      "date": "9/2",
+      "summary": "在香港兰桂坊，一位特殊的“酒保”正式上岗"
+    },
+    {
+      "id": "n3801324586",
+      "type": "rss",
+      "category": "技术",
+      "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/482699.html",
+      "date": "9/2",
+      "summary": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。"
+    },
+    {
+      "id": "n2552919981",
+      "type": "rss",
+      "category": "技术",
+      "title": "李飞飞发布：全球首个多模态世界模型",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/482586.html",
+      "date": "9/2",
+      "summary": "一张图补全3D世界，还能给机器人造训练场"
+    },
+    {
+      "id": "n6738042249",
+      "type": "rss",
+      "category": "技术",
+      "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/482512.html",
+      "date": "9/2",
+      "summary": ""
+    },
+    {
+      "id": "n5153731338",
+      "type": "rss",
+      "category": "技术",
+      "title": "GitHub最热架构图Agent，开发者故事看哭了",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/482469.html",
+      "date": "9/2",
+      "summary": "美观且支持实时更新的架构图，也能用AI一键生成了！"
+    },
+    {
+      "id": "n1088719922",
+      "type": "rss",
+      "category": "技术",
+      "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/482406.html",
+      "date": "9/2",
+      "summary": "主打一个明升暗降，理直气壮"
+    },
+    {
+      "id": "n3485634454",
       "type": "rss",
       "category": "技术",
       "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/09/482337.html",
-      "date": "9/1",
+      "date": "9/2",
       "summary": "参数冻结，能力暴涨"
     },
     {
-      "id": "n2648415836",
-      "type": "rss",
-      "category": "技术",
-      "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/482300.html",
-      "date": "9/1",
-      "summary": "连发六篇Nature期刊，复旦Neolab打通全尺度生命推演"
-    },
-    {
-      "id": "n404691988",
+      "id": "n6125651828",
       "type": "rss",
       "category": "动态",
-      "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/481928.html",
-      "date": "9/1",
-      "summary": "划重点：这次不是你挨家敲门，是VC排队来看你。"
-    },
-    {
-      "id": "n4861363123",
-      "type": "rss",
-      "category": "技术",
-      "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/481919.html",
-      "date": "9/1",
-      "summary": ""
-    },
-    {
-      "id": "n2867268365",
-      "type": "rss",
-      "category": "技术",
-      "title": "「GPT-6」灰测demo刷屏！周四发布在即",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/481893.html",
-      "date": "9/1",
-      "summary": "核弹爆炸"
-    },
-    {
-      "id": "n3602135788",
-      "type": "rss",
-      "category": "技术",
-      "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/481759.html",
-      "date": "9/1",
-      "summary": "什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac"
-    },
-    {
-      "id": "n1735959981",
-      "type": "rss",
-      "category": "技术",
-      "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/481750.html",
-      "date": "9/1",
-      "summary": "灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。"
-    },
-    {
-      "id": "n4829557991",
-      "type": "rss",
-      "category": "技术",
-      "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/481475.html",
-      "date": "9/1",
-      "summary": "自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。"
-    },
-    {
-      "id": "n335247752",
-      "type": "rss",
-      "category": "技术",
-      "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/08/481372.html",
-      "date": "9/1",
-      "summary": "推理软件栈的微小差异，就能改变输出token"
-    },
-    {
-      "id": "n9148029998",
-      "type": "rss",
-      "category": "技术",
-      "title": "国产智能化工大模型 3.0 Pro 发布，中国科学院大连化物所、科大讯飞、阿里云等研发",
+      "title": "为小米迄今最高端手机 18 Fold 铺路，小米汽车 App 已适配阔形屏幕比例",
       "src": "IT之家",
-      "url": "https://www.ithome.com/0/996/891.htm",
-      "date": "9/1",
-      "summary": "IT之家 9 月 1 日消息，由中国科学院大连化学物理研究所（以下简称“大连化物所”）联合科大讯飞股份有限公司（以下简称“科大讯飞”）、阿里云计算有限公司（以下简称“阿里云”）等共同研发的智能化工大模型 3.0 Pro（以下简称“3.0 Pro”）于 8 月 31 日正式发布。作为我国化工行业首个大模型的最新迭代版本，3.0 Pro 实现了从“专业知识问答模型”向“化工任务智能执行系统”的重要跨越，推动了智能化工大模型从“能理解、会回答"
+      "url": "https://www.ithome.com/0/997/399.htm",
+      "date": "9/2",
+      "summary": "IT之家 9 月 2 日消息，小米秋季旗舰新品发布会已官宣定档 9 月 7 日（下周一）晚 7 点，届时将带来小米 18 Fold 全新折叠屏旗舰手机。今日午间，小米创办人、董事长兼 CEO 雷军发布视频，晒出了小米 18 Fold 真机。雷军表示，这（小米 18 Fold）是小米迄今为止最高端的手机，首发玄戒 O3 AI 旗舰处理器。据IT之家小伙伴 @开坦克的贝塔 反馈，小米汽车 App 已经适配了阔形屏幕比例。从他的机型小尾巴及分"
     }
   ],
   "jobs": [
@@ -343,6 +343,6 @@
       "fresh": true
     }
   ],
-  "newsUpdated": "更新于 9/1",
+  "newsUpdated": "更新于 9/2",
   "jobsUpdated": "更新于 8/24"
 }
