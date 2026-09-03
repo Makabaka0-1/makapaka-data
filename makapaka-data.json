@@ -1,104 +1,104 @@
 {
   "news": [
     {
-      "id": "n8283303781",
+      "id": "n9345383483",
+      "type": "rss",
+      "category": "技术",
+      "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/483565.html",
+      "date": "9/3",
+      "summary": "从工厂一路干到家庭"
+    },
+    {
+      "id": "n7392216748",
+      "type": "rss",
+      "category": "技术",
+      "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/483552.html",
+      "date": "9/3",
+      "summary": ""
+    },
+    {
+      "id": "n9970902036",
+      "type": "rss",
+      "category": "技术",
+      "title": "今年最难的机器人Demo，“机器人含量”为0",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/483351.html",
+      "date": "9/3",
+      "summary": "遥操，可能真的危险了"
+    },
+    {
+      "id": "n9963472409",
+      "type": "rss",
+      "category": "技术",
+      "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/483104.html",
+      "date": "9/3",
+      "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文"
+    },
+    {
+      "id": "n3362646072",
+      "type": "rss",
+      "category": "技术",
+      "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/483101.html",
+      "date": "9/3",
+      "summary": ""
+    },
+    {
+      "id": "n2832130048",
+      "type": "rss",
+      "category": "动态",
+      "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/483097.html",
+      "date": "9/3",
+      "summary": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能"
+    },
+    {
+      "id": "n5688985255",
       "type": "rss",
       "category": "技术",
       "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/09/482967.html",
-      "date": "9/2",
+      "date": "9/3",
       "summary": "AI客服日扛1.5万通电话"
     },
     {
-      "id": "n3970962441",
+      "id": "n5608467332",
       "type": "rss",
       "category": "技术",
       "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/09/482652.html",
-      "date": "9/2",
+      "date": "9/3",
       "summary": "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色"
     },
     {
-      "id": "n9512755846",
-      "type": "rss",
-      "category": "技术",
-      "title": "香港首个真实开放场景服务机器人落地兰桂坊",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/482855.html",
-      "date": "9/2",
-      "summary": "在香港兰桂坊，一位特殊的“酒保”正式上岗"
-    },
-    {
-      "id": "n3801324586",
-      "type": "rss",
-      "category": "技术",
-      "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/482699.html",
-      "date": "9/2",
-      "summary": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。"
-    },
-    {
-      "id": "n2552919981",
-      "type": "rss",
-      "category": "技术",
-      "title": "李飞飞发布：全球首个多模态世界模型",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/482586.html",
-      "date": "9/2",
-      "summary": "一张图补全3D世界，还能给机器人造训练场"
-    },
-    {
-      "id": "n6738042249",
-      "type": "rss",
-      "category": "技术",
-      "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/482512.html",
-      "date": "9/2",
-      "summary": ""
-    },
-    {
-      "id": "n5153731338",
-      "type": "rss",
-      "category": "技术",
-      "title": "GitHub最热架构图Agent，开发者故事看哭了",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/482469.html",
-      "date": "9/2",
-      "summary": "美观且支持实时更新的架构图，也能用AI一键生成了！"
-    },
-    {
-      "id": "n1088719922",
-      "type": "rss",
-      "category": "技术",
-      "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/482406.html",
-      "date": "9/2",
-      "summary": "主打一个明升暗降，理直气壮"
-    },
-    {
-      "id": "n3485634454",
-      "type": "rss",
-      "category": "技术",
-      "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/482337.html",
-      "date": "9/2",
-      "summary": "参数冻结，能力暴涨"
-    },
-    {
-      "id": "n6125651828",
+      "id": "n4202140754",
       "type": "rss",
       "category": "动态",
-      "title": "为小米迄今最高端手机 18 Fold 铺路，小米汽车 App 已适配阔形屏幕比例",
+      "title": "卢伟冰公布今晚小米 IFA 柏林国际消费电子展直播亮点，称将带来小米汽车的好消息",
       "src": "IT之家",
-      "url": "https://www.ithome.com/0/997/399.htm",
-      "date": "9/2",
-      "summary": "IT之家 9 月 2 日消息，小米秋季旗舰新品发布会已官宣定档 9 月 7 日（下周一）晚 7 点，届时将带来小米 18 Fold 全新折叠屏旗舰手机。今日午间，小米创办人、董事长兼 CEO 雷军发布视频，晒出了小米 18 Fold 真机。雷军表示，这（小米 18 Fold）是小米迄今为止最高端的手机，首发玄戒 O3 AI 旗舰处理器。据IT之家小伙伴 @开坦克的贝塔 反馈，小米汽车 App 已经适配了阔形屏幕比例。从他的机型小尾巴及分"
+      "url": "https://www.ithome.com/0/997/870.htm",
+      "date": "9/3",
+      "summary": "IT之家 9 月 3 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰刚刚发文，剧透了今晚 IFA 柏林国际消费电子展直播亮点。直播过程中：小米 18 Fold，从命名、形态、性能，再到价格，继续给大家爆点料。还有玄戒芯片、小米机器人 CyberOne 海外首秀、以及小米汽车的好消息。据IT之家昨日报道，卢伟冰表示，今年小米首次参加 IFA 展，也准备了小米史上最大规模的海外展台。另外，小米集团董事长特别助理、战略市场"
+    },
+    {
+      "id": "n150810682",
+      "type": "rss",
+      "category": "技术",
+      "title": "OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度未跳跃增长",
+      "src": "IT之家",
+      "url": "https://www.ithome.com/0/997/866.htm",
+      "date": "9/3",
+      "summary": "IT之家 9 月 3 日消息，OpenAI 首席科学家雅库布・帕乔基（Jakub Pachocki）昨日（9 月 2 日）在 X 平台发布推文，回应 AI 模型 Astra“不可监控 / 推理不透明”的争议。帕乔基强调，包括 Astra 在内的前沿模型，计算图深度与 GPT-4 相差不超过两倍，架构并未出现跳跃式复杂度增长。OpenAI 表示将为 Astra 部署额外思维链监控，加强监控仍是当前研究核心目标。该事件最早追溯到 The I"
     }
   ],
   "jobs": [
@@ -343,6 +343,6 @@
       "fresh": true
     }
   ],
-  "newsUpdated": "更新于 9/2",
+  "newsUpdated": "更新于 9/3",
   "jobsUpdated": "更新于 8/24"
 }
