@@ -1,104 +1,104 @@
 {
   "news": [
     {
-      "id": "n2756944986",
+      "id": "n8302176091",
       "type": "rss",
       "category": "技术",
-      "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
+      "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/483984.html",
-      "date": "9/4",
-      "summary": "比新业务更考验一家公司的，可能是怎么对待年轻人。"
+      "url": "https://www.qbitai.com/2026/09/484649.html",
+      "date": "9/5",
+      "summary": "AI直接吐出正确答案，但最关键的可能不是答案"
     },
     {
-      "id": "n5765652333",
+      "id": "n2192394955",
       "type": "rss",
       "category": "技术",
-      "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+      "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/483598.html",
-      "date": "9/4",
-      "summary": "吃下90%市场"
+      "url": "https://www.qbitai.com/2026/09/484611.html",
+      "date": "9/5",
+      "summary": "如此“反骨”的方法，具体又是怎么实现的？"
     },
     {
-      "id": "n5719656502",
+      "id": "n6947629688",
       "type": "rss",
       "category": "技术",
-      "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
+      "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/483948.html",
-      "date": "9/4",
-      "summary": "改进GPT Image 2的噪点问题"
+      "url": "https://www.qbitai.com/2026/09/484551.html",
+      "date": "9/5",
+      "summary": "最后靠Harness救回来"
     },
     {
-      "id": "n6354764774",
+      "id": "n1995158815",
       "type": "rss",
       "category": "技术",
-      "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
+      "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/483898.html",
-      "date": "9/4",
-      "summary": "全球最强C"
+      "url": "https://www.qbitai.com/2026/09/484547.html",
+      "date": "9/5",
+      "summary": "国产卡跑出高品质 AI Token 生产级性能"
     },
     {
-      "id": "n7043347238",
+      "id": "n9760215347",
       "type": "rss",
       "category": "技术",
-      "title": "世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！",
+      "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/483189.html",
-      "date": "9/4",
-      "summary": "单图直出场景，顶会最佳论文落地"
+      "url": "https://www.qbitai.com/2026/09/484437.html",
+      "date": "9/5",
+      "summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL"
     },
     {
-      "id": "n1502939846",
+      "id": "n4516113270",
       "type": "rss",
       "category": "技术",
-      "title": "陈大年复出，入局大模型",
+      "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/483600.html",
-      "date": "9/4",
-      "summary": "首秀逼近DeepSeek万亿旗舰"
+      "url": "https://www.qbitai.com/2026/09/484293.html",
+      "date": "9/5",
+      "summary": "不训练模型、不调参数"
     },
     {
-      "id": "n216107752",
+      "id": "n5223817413",
       "type": "rss",
       "category": "技术",
-      "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
+      "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/483565.html",
-      "date": "9/4",
-      "summary": "从工厂一路干到家庭"
+      "url": "https://www.qbitai.com/2026/09/484203.html",
+      "date": "9/5",
+      "summary": "5000支队伍同台做题，写尽行业四年变化"
     },
     {
-      "id": "n3708200667",
+      "id": "n8952878516",
       "type": "rss",
       "category": "技术",
-      "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/483552.html",
-      "date": "9/4",
-      "summary": ""
+      "title": "上海警方破获《三角洲行动》OBS / OBX-AI 外挂案，腾讯安全团队协助抓获 2 名犯罪嫌疑人",
+      "src": "IT之家",
+      "url": "https://www.ithome.com/0/998/725.htm",
+      "date": "9/5",
+      "summary": "IT之家 9 月 5 日消息，腾讯昨日发文宣布，在《三角洲行动》及腾讯游戏安全团队协助下，上海警方赴辽宁丹东开展收网行动，成功抓获 OBS / OBX-AI 两款游戏外挂的开发作者及总代理，现场查获外挂源代码。目前，上海警方已依法对上述 2 名犯罪嫌疑人采取刑事强制措施。据介绍，该作者利用公开网络上的开源代码进行非法加工、编译，制作了 OBS 和 OBX-AI 两款游戏外挂程序。外挂总代理随后通过游戏交流群招募下级代理，依托线上平台进行"
     },
     {
-      "id": "n1427117435",
+      "id": "n348128985",
       "type": "rss",
       "category": "技术",
-      "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
       "src": "Hacker News",
-      "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
-      "date": "9/4",
-      "summary": "Article URL: https://www.agentconnect.md/blog/grep-beat-lsp-harness/ Comments URL: https://news.ycombinator.com/item?id=49560260 Points: 41 # Comments: 19"
+      "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+      "date": "9/5",
+      "summary": "Article URL: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation Comments URL: https://news.ycombinator.com/item?id=49572875 Points: 5 # Comments: 1"
     },
     {
-      "id": "n363291630",
+      "id": "n2491723020",
       "type": "rss",
       "category": "技术",
-      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "title": "Artificial Analysis Intelligence Index v4.2",
       "src": "Hacker News",
-      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-      "date": "9/4",
-      "summary": "Article URL: https://armature.tech/blog/which-tools-coding-agents-install Comments URL: https://news.ycombinator.com/item?id=49557206 Points: 153 # Comments: 53"
+      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+      "date": "9/5",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2 Comments URL: https://news.ycombinator.com/item?id=49571632 Points: 91 # Comments: 27"
     }
   ],
   "jobs": [
@@ -343,6 +343,6 @@
       "fresh": true
     }
   ],
-  "newsUpdated": "更新于 9/4",
+  "newsUpdated": "更新于 9/5",
   "jobsUpdated": "更新于 8/24"
 }
