@@ -1,104 +1,104 @@
 {
   "news": [
     {
-      "id": "n1760217709",
+      "id": "n4600964589",
+      "type": "rss",
+      "category": "技术",
+      "title": "业内首个！“千问办公”推出“多人工作台”",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/485046.html",
+      "date": "9/7",
+      "summary": "近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。"
+    },
+    {
+      "id": "n9401190162",
+      "type": "rss",
+      "category": "动态",
+      "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/484897.html",
+      "date": "9/7",
+      "summary": "让机器人学会利用更长的多模态Context"
+    },
+    {
+      "id": "n677085071",
       "type": "rss",
       "category": "技术",
       "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/09/484890.html",
-      "date": "9/6",
+      "date": "9/7",
       "summary": ""
     },
     {
-      "id": "n4697789013",
+      "id": "n8613722904",
       "type": "rss",
       "category": "技术",
       "title": "GPT-6带火循环Transformer，阿里早已布局",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/09/484726.html",
-      "date": "9/6",
+      "date": "9/7",
       "summary": "手握两篇顶会论文"
     },
     {
-      "id": "n1692951867",
+      "id": "n4476978405",
       "type": "rss",
       "category": "技术",
       "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/09/484683.html",
-      "date": "9/6",
+      "date": "9/7",
       "summary": "当AI开始“预演”一场暴雨"
     },
     {
-      "id": "n7157111476",
+      "id": "n2032842480",
       "type": "rss",
       "category": "技术",
       "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/09/484649.html",
-      "date": "9/6",
+      "date": "9/7",
       "summary": "AI直接吐出正确答案，但最关键的可能不是答案"
     },
     {
-      "id": "n9536447169",
+      "id": "n8456086384",
       "type": "rss",
       "category": "技术",
       "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/09/484611.html",
-      "date": "9/6",
+      "date": "9/7",
       "summary": "如此“反骨”的方法，具体又是怎么实现的？"
     },
     {
-      "id": "n1428188178",
+      "id": "n3061565843",
       "type": "rss",
       "category": "技术",
       "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/09/484551.html",
-      "date": "9/6",
+      "date": "9/7",
       "summary": "最后靠Harness救回来"
     },
     {
-      "id": "n8070259657",
+      "id": "n4751229449",
       "type": "rss",
       "category": "技术",
       "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/09/484547.html",
-      "date": "9/6",
+      "date": "9/7",
       "summary": "国产卡跑出高品质 AI Token 生产级性能"
     },
     {
-      "id": "n5694904922",
+      "id": "n81271706",
       "type": "rss",
-      "category": "技术",
-      "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/484437.html",
-      "date": "9/6",
-      "summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL"
-    },
-    {
-      "id": "n5823041209",
-      "type": "rss",
-      "category": "技术",
-      "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/484293.html",
-      "date": "9/6",
-      "summary": "不训练模型、不调参数"
-    },
-    {
-      "id": "n3022607507",
-      "type": "rss",
-      "category": "技术",
-      "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/484203.html",
-      "date": "9/6",
-      "summary": "5000支队伍同台做题，写尽行业四年变化"
+      "category": "动态",
+      "title": "雷军更换微博头像“雨天亲测小米澎程 N90 Max 顶帐”，今晚 7 点见",
+      "src": "IT之家",
+      "url": "https://www.ithome.com/0/999/217.htm",
+      "date": "9/7",
+      "summary": "IT之家 9 月 7 日消息，小米汽车官方刚刚发文预热今晚的发布会，宣布澎程新车 19 点见。而在官方预热海报的右下角出现了澎程 N90 Max 升顶帐篷款的剪影。IT之家注意到，小米创办人、董事长兼 CEO 雷军已更换新头像，展示了澎程 N90 Max 的顶帐实际使用效果。值得一提的是，新头像共两个版本：初始头像仅展示了雷军在顶帐里的神情状态，而最新版头像则公开了车外的场景及天气。从最新头像画面可以看到，雷军测试顶帐时是在户外（可以看"
     }
   ],
   "jobs": [
@@ -343,6 +343,6 @@
       "fresh": true
     }
   ],
-  "newsUpdated": "更新于 9/6",
+  "newsUpdated": "更新于 9/7",
   "jobsUpdated": "更新于 8/24"
 }
