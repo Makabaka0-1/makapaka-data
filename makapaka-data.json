@@ -1,104 +1,104 @@
 {
   "news": [
     {
-      "id": "n3808849675",
+      "id": "n672247988",
+      "type": "rss",
+      "category": "技术",
+      "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/486625.html",
+      "date": "9/10",
+      "summary": "模型可以开源，部署经验不能"
+    },
+    {
+      "id": "n3739736671",
+      "type": "rss",
+      "category": "技术",
+      "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/486436.html",
+      "date": "9/10",
+      "summary": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行"
+    },
+    {
+      "id": "n7561571044",
+      "type": "rss",
+      "category": "技术",
+      "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/486450.html",
+      "date": "9/10",
+      "summary": "一比根号二的小胖折叠"
+    },
+    {
+      "id": "n7490265185",
+      "type": "rss",
+      "category": "技术",
+      "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/486370.html",
+      "date": "9/10",
+      "summary": ""
+    },
+    {
+      "id": "n7863659499",
+      "type": "rss",
+      "category": "技术",
+      "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/486288.html",
+      "date": "9/10",
+      "summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。"
+    },
+    {
+      "id": "n3562787649",
       "type": "rss",
       "category": "技术",
       "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/09/486280.html",
-      "date": "9/9",
+      "date": "9/10",
       "summary": "从Demo到货架，这两家公司要让具身智能算得过账"
     },
     {
-      "id": "n1711639757",
+      "id": "n5371244613",
       "type": "rss",
       "category": "技术",
       "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/09/486052.html",
-      "date": "9/9",
+      "date": "9/10",
       "summary": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动"
     },
     {
-      "id": "n2228037889",
+      "id": "n6544336215",
       "type": "rss",
       "category": "技术",
       "title": "宜宾，一场机器人“招聘会”的产业雄心",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/09/486038.html",
-      "date": "9/9",
+      "date": "9/10",
       "summary": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。"
     },
     {
-      "id": "n9437446519",
+      "id": "n8720635782",
       "type": "rss",
       "category": "技术",
       "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/09/485854.html",
-      "date": "9/9",
+      "date": "9/10",
       "summary": "Blender也不用学了"
     },
     {
-      "id": "n6554116091",
+      "id": "n9241250770",
       "type": "rss",
       "category": "技术",
-      "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/485794.html",
-      "date": "9/9",
-      "summary": "百万奖金、大厂直通、VC跟投"
-    },
-    {
-      "id": "n9645786442",
-      "type": "rss",
-      "category": "技术",
-      "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/485784.html",
-      "date": "9/9",
-      "summary": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。"
-    },
-    {
-      "id": "n9872595440",
-      "type": "rss",
-      "category": "技术",
-      "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/485630.html",
-      "date": "9/9",
-      "summary": "从看市场，到见场景；从认识伙伴，到寻找合作。"
-    },
-    {
-      "id": "n2001970675",
-      "type": "rss",
-      "category": "动态",
-      "title": "王云鹤创业后交出首个模型",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/485555.html",
-      "date": "9/9",
-      "summary": "把多模型执行经验用到了模型训练"
-    },
-    {
-      "id": "n7811934223",
-      "type": "rss",
-      "category": "技术",
-      "title": "3秒变身！会合体的机器人，卖到全球50国",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/485525.html",
-      "date": "9/9",
-      "summary": "谁说现在机器人都长得差不多的！"
-    },
-    {
-      "id": "n898107290",
-      "type": "rss",
-      "category": "技术",
-      "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/485431.html",
-      "date": "9/9",
-      "summary": "OpenAI研究院人均带3个AI实习生"
+      "title": "DeepSeek V4.1 Flash 模型正式发布：原生多模态视觉理解，API 定价下调",
+      "src": "IT之家",
+      "url": "https://www.ithome.com/1/000/719.htm",
+      "date": "9/10",
+      "summary": "IT之家 9 月 10 日消息，深度求索今日正式发布 DeepSeek V4.1 Flash 模型。这是其全新模型结构系列中的最小尺寸的模型，具备原生多模态视觉理解能力。新模型结构的设计初衷是：能力上限更高、推理速度更快、吞吐更大、可扩展到更大参数模型。DeepSeek V4.1 Flash 为 552B 参数的 MoE 模型，采用了全新的 Causal-Encoder-Decoder 结构，输入和输出不对称，输入激活只有 8B，输出激"
     }
   ],
   "jobs": [
@@ -343,6 +343,6 @@
       "fresh": true
     }
   ],
-  "newsUpdated": "更新于 9/9",
+  "newsUpdated": "更新于 9/10",
   "jobsUpdated": "更新于 8/24"
 }
