@@ -1,104 +1,104 @@
 {
   "news": [
     {
-      "id": "n1659678381",
+      "id": "n124603211",
+      "type": "rss",
+      "category": "技术",
+      "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/488380.html",
+      "date": "9/13",
+      "summary": "RSI太危险，得管！"
+    },
+    {
+      "id": "n3837500117",
+      "type": "rss",
+      "category": "技术",
+      "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/487860.html",
+      "date": "9/13",
+      "summary": "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。"
+    },
+    {
+      "id": "n6738255999",
+      "type": "rss",
+      "category": "技术",
+      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/487796.html",
+      "date": "9/13",
+      "summary": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。"
+    },
+    {
+      "id": "n5688806520",
+      "type": "rss",
+      "category": "技术",
+      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/487752.html",
+      "date": "9/13",
+      "summary": "触觉、记忆、Ego数据、自进化……这个世界模型全都有"
+    },
+    {
+      "id": "n1346744210",
+      "type": "rss",
+      "category": "技术",
+      "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/487701.html",
+      "date": "9/13",
+      "summary": "FrontierMath Tier 4，饱和了"
+    },
+    {
+      "id": "n3346416208",
       "type": "rss",
       "category": "技术",
       "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/09/487653.html",
-      "date": "9/12",
+      "date": "9/13",
       "summary": "25位菲尔兹奖得主联名吹哨"
     },
     {
-      "id": "n4444871593",
+      "id": "n7638213940",
       "type": "rss",
       "category": "技术",
       "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/09/487631.html",
-      "date": "9/12",
+      "date": "9/13",
       "summary": "看清「一个真正的人」"
     },
     {
-      "id": "n30046891",
+      "id": "n8165566187",
       "type": "rss",
       "category": "技术",
       "title": "啊？Anthropic最高320万招销售，只为服务Meta",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/09/487573.html",
-      "date": "9/12",
+      "date": "9/13",
       "summary": "原来你俩互相下单呢"
     },
     {
-      "id": "n8324720968",
+      "id": "n4874834285",
       "type": "rss",
-      "category": "技术",
-      "title": "不简单，“吃货快乐榜”也全面AI化了",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/487282.html",
-      "date": "9/12",
-      "summary": ""
-    },
-    {
-      "id": "n8259860072",
-      "type": "rss",
-      "category": "技术",
-      "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/487273.html",
-      "date": "9/12",
-      "summary": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。"
-    },
-    {
-      "id": "n8852924507",
-      "type": "rss",
-      "category": "技术",
-      "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/487163.html",
-      "date": "9/12",
-      "summary": ""
-    },
-    {
-      "id": "n9611158791",
-      "type": "rss",
-      "category": "技术",
-      "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/487092.html",
-      "date": "9/12",
-      "summary": "爆料直指霍奇猜想"
-    },
-    {
-      "id": "n5037953337",
-      "type": "rss",
-      "category": "技术",
-      "title": "荣耀亲选 DigaCite AI 相册管家上架：11 英寸全高清面板、内置 AI 创作功能，999 元",
+      "category": "动态",
+      "title": "小米澎程迎来上海首批车主，雷军亲自为 30 位车主及家人交付新车",
       "src": "IT之家",
-      "url": "https://www.ithome.com/1/001/557.htm",
-      "date": "9/12",
-      "summary": "IT之家 9 月 12 日消息，荣耀现已在京东上架荣耀亲选 DigaCite AI 相册管家，该产品可以看作是一款平板电脑，定价 1199 元，首发价 999 元。京东荣耀亲选 DigaCiteAI 相册管家券后 999 元领 200 元券该产品采用 6.9mm 金属机身，配备 11 英寸 1920x1200 分辨率面板，支持横竖双摆两种摆放方式，可自然融入各类家居环境。设备最高支持 4TB 拓展，数据支持远程访问，手机 App 可随存"
+      "url": "https://www.ithome.com/1/001/743.htm",
+      "date": "9/13",
+      "summary": "IT之家 9 月 13 日消息，小米汽车刚刚宣布，小米澎程迎来了上海首批车主，小米创办人、董事长兼 CEO 雷军亲自为首批 30 位车主及家人交付新车。据IT之家昨日报道，小米澎程已正式开启交付，覆盖全国 75 个城市。雷军现身江苏徐州的首批车主交付现场，为车主开车门、递钥匙。至于为什么选择在江苏徐州，项羽故都位于江苏省徐州市，古称彭城邑、彭城县，刚好与小米澎程谐音。小米澎程系列于 9 月 7 日晚发布，4 分钟锁单突破 10,000 "
     },
     {
-      "id": "n7650869574",
+      "id": "n3236438431",
       "type": "rss",
       "category": "技术",
-      "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
-      "src": "Hacker News",
-      "url": "https://github.com/zachsaw/graphify-csharp",
-      "date": "9/12",
-      "summary": "Article URL: https://github.com/zachsaw/graphify-csharp Comments URL: https://news.ycombinator.com/item?id=49667188 Points: 28 # Comments: 11"
-    },
-    {
-      "id": "n9812221491",
-      "type": "rss",
-      "category": "技术",
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "src": "Hacker News",
-      "url": "https://www.rubyhack.ai/",
-      "date": "9/12",
-      "summary": "Article URL: https://www.rubyhack.ai/ Comments URL: https://news.ycombinator.com/item?id=49666735 Points: 525 # Comments: 307"
+      "title": "时隔多年苹果再拿华为做对比，Apple Watch 心率准确性研究将 HUAWEI WATCH 5 列为“唯一的例外”",
+      "src": "IT之家",
+      "url": "https://www.ithome.com/1/001/740.htm",
+      "date": "9/13",
+      "summary": "IT之家 9 月 13 日消息，苹果在 9 月 10 日正式发布了 Apple Watch Series 12 智能手表，搭载更强的健康传感器和全新的 Apple 芯片。伴随 Apple Watch Series 12 智能手表发布的还有一份苹果《Apple Watch 心率准确性研究》。苹果在这份研究中总结了升级后的光学心率传感系统在可穿戴设备领域中相对于其他设备的准确性。参与苹果此次研究的腕戴式设备包括 Apple Watch Se"
     }
   ],
   "jobs": [
@@ -343,6 +343,6 @@
       "fresh": true
     }
   ],
-  "newsUpdated": "更新于 9/12",
+  "newsUpdated": "更新于 9/13",
   "jobsUpdated": "更新于 8/24"
 }
