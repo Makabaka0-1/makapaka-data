@@ -1,104 +1,104 @@
 {
   "news": [
     {
-      "id": "n5331087973",
+      "id": "n4355077843",
+      "type": "rss",
+      "category": "技术",
+      "title": "9月21日，深圳前海！聊聊工业AI与生态共创的下一步",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/489277.html",
+      "date": "9/15",
+      "summary": "西门子Xcelerator繁星生态大会，在生态合作中共赢机遇"
+    },
+    {
+      "id": "n7682590339",
+      "type": "rss",
+      "category": "技术",
+      "title": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/489227.html",
+      "date": "9/15",
+      "summary": "几百个Agent参与研发，AI开始造AI"
+    },
+    {
+      "id": "n5027537561",
+      "type": "rss",
+      "category": "技术",
+      "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/489105.html",
+      "date": "9/15",
+      "summary": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区"
+    },
+    {
+      "id": "n1594195583",
+      "type": "rss",
+      "category": "技术",
+      "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/489106.html",
+      "date": "9/15",
+      "summary": "业界首个5A算电协同认证"
+    },
+    {
+      "id": "n3371013610",
+      "type": "rss",
+      "category": "技术",
+      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/489037.html",
+      "date": "9/15",
+      "summary": ""
+    },
+    {
+      "id": "n6755692248",
+      "type": "rss",
+      "category": "技术",
+      "title": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/489023.html",
+      "date": "9/15",
+      "summary": "AI 蛋白质设计迈入“动态时代”"
+    },
+    {
+      "id": "n2848080648",
+      "type": "rss",
+      "category": "技术",
+      "title": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/488933.html",
+      "date": "9/15",
+      "summary": "让模型和设备共同进化"
+    },
+    {
+      "id": "n4234431085",
+      "type": "rss",
+      "category": "技术",
+      "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/488912.html",
+      "date": "9/15",
+      "summary": "险资、券商与头部创投持续加码"
+    },
+    {
+      "id": "n5638873337",
+      "type": "rss",
+      "category": "技术",
+      "title": "2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/488875.html",
+      "date": "9/15",
+      "summary": "共话AI时代的生活、影像与创造。"
+    },
+    {
+      "id": "n2827164064",
       "type": "rss",
       "category": "技术",
       "title": "AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/09/488832.html",
-      "date": "9/14",
+      "date": "9/15",
       "summary": "小模型突破瓶颈，旗舰模型打开新空间"
-    },
-    {
-      "id": "n9325148520",
-      "type": "rss",
-      "category": "技术",
-      "title": "中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/488725.html",
-      "date": "9/14",
-      "summary": "这家中国公司，刚跑完了物理闭环里最难的一段路"
-    },
-    {
-      "id": "n2365768309",
-      "type": "rss",
-      "category": "技术",
-      "title": "智谱提前剧透下一代GLM：完全自训练方法公开了",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/488694.html",
-      "date": "9/14",
-      "summary": "模型、论文都还没出，没想到先从财务公告上剧透了"
-    },
-    {
-      "id": "n8616793488",
-      "type": "rss",
-      "category": "技术",
-      "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/488672.html",
-      "date": "9/14",
-      "summary": "亮源新创的Physical Al路线清晰了"
-    },
-    {
-      "id": "n9665278233",
-      "type": "rss",
-      "category": "技术",
-      "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/488447.html",
-      "date": "9/14",
-      "summary": "Agent的下一步是关系型生产力"
-    },
-    {
-      "id": "n2569346328",
-      "type": "rss",
-      "category": "技术",
-      "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/488380.html",
-      "date": "9/14",
-      "summary": "RSI太危险，得管！"
-    },
-    {
-      "id": "n544518048",
-      "type": "rss",
-      "category": "技术",
-      "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/487860.html",
-      "date": "9/14",
-      "summary": "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。"
-    },
-    {
-      "id": "n9586914489",
-      "type": "rss",
-      "category": "技术",
-      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/487796.html",
-      "date": "9/14",
-      "summary": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。"
-    },
-    {
-      "id": "n8807549311",
-      "type": "rss",
-      "category": "动态",
-      "title": "第 15 万台蔚来全新 ES8 汽车官宣本周交付，租电购买 27.48 万元起",
-      "src": "IT之家",
-      "url": "https://www.ithome.com/1/002/033.htm",
-      "date": "9/14",
-      "summary": "IT之家 9 月 14 日消息，上海蔚来汽车有限公司用户运营助理副总裁杨波刚刚宣布，本周会迎来全新 ES8 的第 15 万台交付（具体日期未公布）。值得一提的是，今年 8 月 21 日，蔚来 ES8 在发布亮相一周年之际（预售时间为去年 8 月 21 日），于 2026 成都车展开幕首日迎来第 140,000 台新车交付。自开启交付以来，蔚来 ES8 历时 335 天，累计完成十四万台新车交付。据IT之家此前报道，全新蔚来 ES8 纯电"
-    },
-    {
-      "id": "n2396549813",
-      "type": "rss",
-      "category": "技术",
-      "title": "Who Gets to Define the Rules for AI?",
-      "src": "Hacker News",
-      "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-      "date": "9/14",
-      "summary": "Article URL: https://cohere.com/blog/who-gets-to-define-the-rules-for-ai Comments URL: https://news.ycombinator.com/item?id=49692118 Points: 9 # Comments: 3"
     }
   ],
   "jobs": [
@@ -343,6 +343,6 @@
       "fresh": true
     }
   ],
-  "newsUpdated": "更新于 9/14",
+  "newsUpdated": "更新于 9/15",
   "jobsUpdated": "更新于 8/24"
 }
