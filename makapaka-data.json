@@ -1,104 +1,104 @@
 {
   "news": [
     {
-      "id": "n4355077843",
+      "id": "n6911810277",
       "type": "rss",
       "category": "技术",
-      "title": "9月21日，深圳前海！聊聊工业AI与生态共创的下一步",
+      "title": "量子位2026人工智能年度榜单，正式启动！",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/489277.html",
-      "date": "9/15",
-      "summary": "西门子Xcelerator繁星生态大会，在生态合作中共赢机遇"
+      "url": "https://www.qbitai.com/2026/09/490329.html",
+      "date": "9/16",
+      "summary": "报名通道已开启，欢迎参与！"
     },
     {
-      "id": "n7682590339",
+      "id": "n7870701949",
       "type": "rss",
       "category": "技术",
-      "title": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开",
+      "title": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/489227.html",
-      "date": "9/15",
-      "summary": "几百个Agent参与研发，AI开始造AI"
+      "url": "https://www.qbitai.com/2026/09/490185.html",
+      "date": "9/16",
+      "summary": "从想法到结果，一次对话实现"
     },
     {
-      "id": "n5027537561",
+      "id": "n889681059",
       "type": "rss",
       "category": "技术",
-      "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
+      "title": "把记忆交给CPU，大模型会变快",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/489105.html",
-      "date": "9/15",
-      "summary": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区"
+      "url": "https://www.qbitai.com/2026/09/489724.html",
+      "date": "9/16",
+      "summary": "让GPU去忙生成Token"
     },
     {
-      "id": "n1594195583",
+      "id": "n5121883993",
       "type": "rss",
       "category": "技术",
-      "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
+      "title": "华为GTS让Agent学会「看着网络排障」，双防火墙难题几乎全拿下",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/489106.html",
-      "date": "9/15",
-      "summary": "业界首个5A算电协同认证"
+      "url": "https://www.qbitai.com/2026/09/490098.html",
+      "date": "9/16",
+      "summary": "任务通过率提升24.2%，token成本最高下降45%"
     },
     {
-      "id": "n3371013610",
+      "id": "n261675641",
       "type": "rss",
-      "category": "技术",
-      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+      "category": "动态",
+      "title": "梁文锋CFO到位！投过智谱MiniMax",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/489037.html",
-      "date": "9/15",
-      "summary": ""
+      "url": "https://www.qbitai.com/2026/09/489707.html",
+      "date": "9/16",
+      "summary": "严文韬，1991年生，高瓴创投合伙人"
     },
     {
-      "id": "n6755692248",
+      "id": "n1248219968",
       "type": "rss",
       "category": "技术",
-      "title": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
+      "title": "地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/489023.html",
-      "date": "9/15",
-      "summary": "AI 蛋白质设计迈入“动态时代”"
+      "url": "https://www.qbitai.com/2026/09/489698.html",
+      "date": "9/16",
+      "summary": "首发全场景倒车能力，体验再进一步"
     },
     {
-      "id": "n2848080648",
+      "id": "n7716473179",
       "type": "rss",
       "category": "技术",
-      "title": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装",
+      "title": "手机替我跑了一整套流程！我就说了一句话，AI执行了100步",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/488933.html",
-      "date": "9/15",
-      "summary": "让模型和设备共同进化"
+      "url": "https://www.qbitai.com/2026/09/489466.html",
+      "date": "9/16",
+      "summary": "一句话，YOYO全面接管我的生活"
     },
     {
-      "id": "n4234431085",
+      "id": "n2012758721",
       "type": "rss",
       "category": "技术",
-      "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
+      "title": "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/488912.html",
-      "date": "9/15",
-      "summary": "险资、券商与头部创投持续加码"
+      "url": "https://www.qbitai.com/2026/09/489389.html",
+      "date": "9/16",
+      "summary": "智象未来（HiDream.ai）正式发布首个原生全模态视频生成模型 HiDream-O1-Video-1.0"
     },
     {
-      "id": "n5638873337",
+      "id": "n5335068397",
       "type": "rss",
       "category": "技术",
-      "title": "2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/488875.html",
-      "date": "9/15",
-      "summary": "共话AI时代的生活、影像与创造。"
+      "title": "联想 YOGA Pro 15 RTX Spark 预热：搭载 RTX Spark N1X 超级芯片",
+      "src": "IT之家",
+      "url": "https://www.ithome.com/1/003/027.htm",
+      "date": "9/16",
+      "summary": "IT之家 9 月 16 日消息，联想今年 9 月 3 日在 IFA 2026 上正式推出了其基于英伟达 RTX Spark 超级芯片的笔记本电脑产品，即 15 英寸 Yoga Pro 9n 和 16 英寸二合一翻转本 Yoga 9n 2-in-1。今日，联想 YOGA Pro 15 RTX Spark 国行版本也已开启预热，有望在近期揭晓更多信息。IT之家整理参数如下：Yoga Pro 9nYoga 9n 二合一尺寸347 × 242 "
     },
     {
-      "id": "n2827164064",
+      "id": "n6462247306",
       "type": "rss",
-      "category": "技术",
-      "title": "AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/488832.html",
-      "date": "9/15",
-      "summary": "小模型突破瓶颈，旗舰模型打开新空间"
+      "category": "动态",
+      "title": "SiFive 与 AMD 合作，优化 ROCm 在 RISC-V 数据中心处理器上的表现",
+      "src": "IT之家",
+      "url": "https://www.ithome.com/1/003/026.htm",
+      "date": "9/16",
+      "summary": "IT之家 9 月 16 日消息，SiFive、AMD 当地时间昨日在 AI Infra Summit 上联合展示了 RISC-V 处理器 + AMD Radeon AI PRO R9700 显卡系统利用 ROCm 10.0 运行 Google Gemma4-E2B 模型的能力。本次合作融合了开源软件、AMD ROCm 生态系统的优势以及 RISC-V 开放标准架构的最佳特性，共同赋能下一代数据中心 AI 计算。两家公司将继续评估基于 R"
     }
   ],
   "jobs": [
@@ -343,6 +343,6 @@
       "fresh": true
     }
   ],
-  "newsUpdated": "更新于 9/15",
+  "newsUpdated": "更新于 9/16",
   "jobsUpdated": "更新于 8/24"
 }
