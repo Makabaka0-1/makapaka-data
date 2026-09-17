@@ -1,104 +1,104 @@
 {
   "news": [
     {
-      "id": "n6911810277",
+      "id": "n5146564221",
       "type": "rss",
       "category": "技术",
-      "title": "量子位2026人工智能年度榜单，正式启动！",
+      "title": "马斯克睡进工地！为AI基建拼了",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/490329.html",
-      "date": "9/16",
-      "summary": "报名通道已开启，欢迎参与！"
+      "url": "https://www.qbitai.com/2026/09/491280.html",
+      "date": "9/17",
+      "summary": "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）"
     },
     {
-      "id": "n7870701949",
+      "id": "n2209825634",
       "type": "rss",
       "category": "技术",
-      "title": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」",
+      "title": "国产RSI模型交卷！Flash模型靠它反打旗舰",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/490185.html",
-      "date": "9/16",
-      "summary": "从想法到结果，一次对话实现"
+      "url": "https://www.qbitai.com/2026/09/491091.html",
+      "date": "9/17",
+      "summary": "1亿Tokens人人免费领"
     },
     {
-      "id": "n889681059",
+      "id": "n7413611533",
       "type": "rss",
       "category": "技术",
-      "title": "把记忆交给CPU，大模型会变快",
+      "title": "网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法”",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/489724.html",
-      "date": "9/16",
-      "summary": "让GPU去忙生成Token"
+      "url": "https://www.qbitai.com/2026/09/490974.html",
+      "date": "9/17",
+      "summary": "9月16日，网易有道「NEXT，AGENT｜有道AI Open Day」在北京举办。"
     },
     {
-      "id": "n5121883993",
+      "id": "n9589301562",
       "type": "rss",
       "category": "技术",
-      "title": "华为GTS让Agent学会「看着网络排障」，双防火墙难题几乎全拿下",
+      "title": "罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/490098.html",
-      "date": "9/16",
-      "summary": "任务通过率提升24.2%，token成本最高下降45%"
+      "url": "https://www.qbitai.com/2026/09/490950.html",
+      "date": "9/17",
+      "summary": "奖励曲线、显卡故障全公开"
     },
     {
-      "id": "n261675641",
-      "type": "rss",
-      "category": "动态",
-      "title": "梁文锋CFO到位！投过智谱MiniMax",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/489707.html",
-      "date": "9/16",
-      "summary": "严文韬，1991年生，高瓴创投合伙人"
-    },
-    {
-      "id": "n1248219968",
+      "id": "n8323888864",
       "type": "rss",
       "category": "技术",
-      "title": "地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出",
+      "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/489698.html",
-      "date": "9/16",
-      "summary": "首发全场景倒车能力，体验再进一步"
+      "url": "https://www.qbitai.com/2026/09/490839.html",
+      "date": "9/17",
+      "summary": "九大空间测试10B规模通用模型中8项第一"
     },
     {
-      "id": "n7716473179",
+      "id": "n5685813633",
       "type": "rss",
       "category": "技术",
-      "title": "手机替我跑了一整套流程！我就说了一句话，AI执行了100步",
+      "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/489466.html",
-      "date": "9/16",
-      "summary": "一句话，YOYO全面接管我的生活"
+      "url": "https://www.qbitai.com/2026/09/490760.html",
+      "date": "9/17",
+      "summary": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。"
     },
     {
-      "id": "n2012758721",
+      "id": "n5040817728",
       "type": "rss",
       "category": "技术",
-      "title": "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
+      "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
       "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/489389.html",
-      "date": "9/16",
-      "summary": "智象未来（HiDream.ai）正式发布首个原生全模态视频生成模型 HiDream-O1-Video-1.0"
+      "url": "https://www.qbitai.com/2026/09/490756.html",
+      "date": "9/17",
+      "summary": "第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地"
     },
     {
-      "id": "n5335068397",
+      "id": "n6682201092",
       "type": "rss",
       "category": "技术",
-      "title": "联想 YOGA Pro 15 RTX Spark 预热：搭载 RTX Spark N1X 超级芯片",
+      "title": "基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/490750.html",
+      "date": "9/17",
+      "summary": "2026年 9 月 15 日，AI基础设施公司基元律动（TokenRhythm）与无问芯穹（Infinigence AI）签署战略合作协议。"
+    },
+    {
+      "id": "n4569963417",
+      "type": "rss",
+      "category": "技术",
+      "title": "网友 AI 开发工具：让笔记本 RTX 5090 显卡冲上 250W，最高功耗增幅 42.9%",
       "src": "IT之家",
-      "url": "https://www.ithome.com/1/003/027.htm",
-      "date": "9/16",
-      "summary": "IT之家 9 月 16 日消息，联想今年 9 月 3 日在 IFA 2026 上正式推出了其基于英伟达 RTX Spark 超级芯片的笔记本电脑产品，即 15 英寸 Yoga Pro 9n 和 16 英寸二合一翻转本 Yoga 9n 2-in-1。今日，联想 YOGA Pro 15 RTX Spark 国行版本也已开启预热，有望在近期揭晓更多信息。IT之家整理参数如下：Yoga Pro 9nYoga 9n 二合一尺寸347 × 242 "
+      "url": "https://www.ithome.com/1/003/566.htm",
+      "date": "9/17",
+      "summary": "IT之家 9 月 17 日消息，网友 u/Ecstatic_Hamster2208 昨日（9 月 16 日）在 Reddit 社区发帖，分享了 1.8.0 版 NvpwrControl 工具，可以将笔记本 RTX 5090 最高调校到 250W。IT之家曾于 9 月 15 日报道，该网友借助 AI 开发 NvpwrControl 工具，成功突破笔记本版英伟达 RTX 5070 Ti 显卡的 140W 功耗限制，冲上 160W 后在 3D"
     },
     {
-      "id": "n6462247306",
+      "id": "n3390880665",
       "type": "rss",
-      "category": "动态",
-      "title": "SiFive 与 AMD 合作，优化 ROCm 在 RISC-V 数据中心处理器上的表现",
+      "category": "技术",
+      "title": "字节火山引擎发布豆包座舱助手：联动 App 实现“手车互联”，上汽荣威家越 07 首发",
       "src": "IT之家",
-      "url": "https://www.ithome.com/1/003/026.htm",
-      "date": "9/16",
-      "summary": "IT之家 9 月 16 日消息，SiFive、AMD 当地时间昨日在 AI Infra Summit 上联合展示了 RISC-V 处理器 + AMD Radeon AI PRO R9700 显卡系统利用 ROCm 10.0 运行 Google Gemma4-E2B 模型的能力。本次合作融合了开源软件、AMD ROCm 生态系统的优势以及 RISC-V 开放标准架构的最佳特性，共同赋能下一代数据中心 AI 计算。两家公司将继续评估基于 R"
+      "url": "https://www.ithome.com/1/003/565.htm",
+      "date": "9/17",
+      "summary": "IT之家 9 月 17 日消息，字节旗下火山引擎今日宣布车载 AI 助手“豆包座舱助手”正式发布，车主在豆包 App 中即可远程控车、查询车况、将对话中的行程推送到车机上。IT之家从官方介绍获悉，作为汽车统一的“大脑”，豆包座舱助手真正参与到“感知-决策-执行”完整链路。能感知数百种车辆信号，也能联动车控、导航、辅助驾驶、娱乐等数千个整车原子能力，将复杂的任务自动拆解、分步执行。火山引擎还公布了车载「豆包屏」，豆包成为车上的常驻形象，随"
     }
   ],
   "jobs": [
@@ -343,6 +343,6 @@
       "fresh": true
     }
   ],
-  "newsUpdated": "更新于 9/16",
+  "newsUpdated": "更新于 9/17",
   "jobsUpdated": "更新于 8/24"
 }
