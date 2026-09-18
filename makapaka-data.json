@@ -1,104 +1,104 @@
 {
   "news": [
     {
-      "id": "n5146564221",
+      "id": "n2978021130",
+      "type": "rss",
+      "category": "技术",
+      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/491711.html",
+      "date": "9/18",
+      "summary": "Git白学了？？？"
+    },
+    {
+      "id": "n3838988990",
+      "type": "rss",
+      "category": "技术",
+      "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/491649.html",
+      "date": "9/18",
+      "summary": "构建个体专属AI助理"
+    },
+    {
+      "id": "n3478848203",
+      "type": "rss",
+      "category": "技术",
+      "title": "Claude Code团队讲究啊，这都往外说",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/491596.html",
+      "date": "9/18",
+      "summary": "工程师的核心永远是Problem Solving。"
+    },
+    {
+      "id": "n2392266202",
+      "type": "rss",
+      "category": "动态",
+      "title": "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/491522.html",
+      "date": "9/18",
+      "summary": "他要和这一代最富有想象力的年轻人一起，去创造一个新的图形学。"
+    },
+    {
+      "id": "n8693634704",
+      "type": "rss",
+      "category": "技术",
+      "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/491454.html",
+      "date": "9/18",
+      "summary": "中国电信，TeleAgent"
+    },
+    {
+      "id": "n1038264227",
+      "type": "rss",
+      "category": "技术",
+      "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
+      "src": "量子位",
+      "url": "https://www.qbitai.com/2026/09/491391.html",
+      "date": "9/18",
+      "summary": "文档和PPT都能做了"
+    },
+    {
+      "id": "n4606515670",
       "type": "rss",
       "category": "技术",
       "title": "马斯克睡进工地！为AI基建拼了",
       "src": "量子位",
       "url": "https://www.qbitai.com/2026/09/491280.html",
-      "date": "9/17",
+      "date": "9/18",
       "summary": "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）"
     },
     {
-      "id": "n2209825634",
+      "id": "n1179730740",
       "type": "rss",
       "category": "技术",
-      "title": "国产RSI模型交卷！Flash模型靠它反打旗舰",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/491091.html",
-      "date": "9/17",
-      "summary": "1亿Tokens人人免费领"
-    },
-    {
-      "id": "n7413611533",
-      "type": "rss",
-      "category": "技术",
-      "title": "网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法”",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/490974.html",
-      "date": "9/17",
-      "summary": "9月16日，网易有道「NEXT，AGENT｜有道AI Open Day」在北京举办。"
-    },
-    {
-      "id": "n9589301562",
-      "type": "rss",
-      "category": "技术",
-      "title": "罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/490950.html",
-      "date": "9/17",
-      "summary": "奖励曲线、显卡故障全公开"
-    },
-    {
-      "id": "n8323888864",
-      "type": "rss",
-      "category": "技术",
-      "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/490839.html",
-      "date": "9/17",
-      "summary": "九大空间测试10B规模通用模型中8项第一"
-    },
-    {
-      "id": "n5685813633",
-      "type": "rss",
-      "category": "技术",
-      "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/490760.html",
-      "date": "9/17",
-      "summary": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。"
-    },
-    {
-      "id": "n5040817728",
-      "type": "rss",
-      "category": "技术",
-      "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/490756.html",
-      "date": "9/17",
-      "summary": "第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地"
-    },
-    {
-      "id": "n6682201092",
-      "type": "rss",
-      "category": "技术",
-      "title": "基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用",
-      "src": "量子位",
-      "url": "https://www.qbitai.com/2026/09/490750.html",
-      "date": "9/17",
-      "summary": "2026年 9 月 15 日，AI基础设施公司基元律动（TokenRhythm）与无问芯穹（Infinigence AI）签署战略合作协议。"
-    },
-    {
-      "id": "n4569963417",
-      "type": "rss",
-      "category": "技术",
-      "title": "网友 AI 开发工具：让笔记本 RTX 5090 显卡冲上 250W，最高功耗增幅 42.9%",
+      "title": "白帽黑客借 Anthropic Claude 成功入侵 OpenAI ChatGPT 账户，获 6500 美元赏金",
       "src": "IT之家",
-      "url": "https://www.ithome.com/1/003/566.htm",
-      "date": "9/17",
-      "summary": "IT之家 9 月 17 日消息，网友 u/Ecstatic_Hamster2208 昨日（9 月 16 日）在 Reddit 社区发帖，分享了 1.8.0 版 NvpwrControl 工具，可以将笔记本 RTX 5090 最高调校到 250W。IT之家曾于 9 月 15 日报道，该网友借助 AI 开发 NvpwrControl 工具，成功突破笔记本版英伟达 RTX 5070 Ti 显卡的 140W 功耗限制，冲上 160W 后在 3D"
+      "url": "https://www.ithome.com/1/004/068.htm",
+      "date": "9/18",
+      "summary": "IT之家 9 月 18 日消息，据《华尔街日报》今日报道，独立安全研究人员利用 Anthropic Claude 成功入侵了一名 OpenAI 员工的 ChatGPT 账户，得以获取该公司私有软件代码库的文档。涉事团队来自安全公司 Hacktron AI，此前曾参与 OpenAI 的漏洞赏金计划。该计划为研究人员提供安全港，允许其在授权范围内尝试突破企业系统。团队在发现漏洞后迅速向 OpenAI 报告了相关情况，OpenAI 随后向该团"
     },
     {
-      "id": "n3390880665",
+      "id": "n8409187321",
+      "type": "rss",
+      "category": "动态",
+      "title": "联想集团股价创历史新高、市值超越美团，CFO 郑孝明称完全被市场低估",
+      "src": "IT之家",
+      "url": "https://www.ithome.com/1/004/066.htm",
+      "date": "9/18",
+      "summary": "IT之家 9 月 18 日消息，联想集团今日股价延续近期强势表现，盘中上扬至 37.42 港元，创历史新高。此前两个交易日，联想集团股价已连续走强，其中 9 月 16 日上涨 8.33%，9 月 17 日再涨 1.54% 至 34.32 港元。截至IT之家发文，联想集团总市值达到 4623 亿港元，超越美团的 4508 亿港元。▲ 美团股价图2026 财年第一财季（2026 年 4 月 1 日～2026 年 6 月 30 日），联想集团"
+    },
+    {
+      "id": "n1998082462",
       "type": "rss",
       "category": "技术",
-      "title": "字节火山引擎发布豆包座舱助手：联动 App 实现“手车互联”，上汽荣威家越 07 首发",
-      "src": "IT之家",
-      "url": "https://www.ithome.com/1/003/565.htm",
-      "date": "9/17",
-      "summary": "IT之家 9 月 17 日消息，字节旗下火山引擎今日宣布车载 AI 助手“豆包座舱助手”正式发布，车主在豆包 App 中即可远程控车、查询车况、将对话中的行程推送到车机上。IT之家从官方介绍获悉，作为汽车统一的“大脑”，豆包座舱助手真正参与到“感知-决策-执行”完整链路。能感知数百种车辆信号，也能联动车控、导航、辅助驾驶、娱乐等数千个整车原子能力，将复杂的任务自动拆解、分步执行。火山引擎还公布了车载「豆包屏」，豆包成为车上的常驻形象，随"
+      "title": "Code Scans",
+      "src": "Hacker News",
+      "url": "https://devin.ai/blog/introducing-code-scans",
+      "date": "9/18",
+      "summary": "Article URL: https://devin.ai/blog/introducing-code-scans Comments URL: https://news.ycombinator.com/item?id=49749744 Points: 14 # Comments: 3"
     }
   ],
   "jobs": [
@@ -343,6 +343,6 @@
       "fresh": true
     }
   ],
-  "newsUpdated": "更新于 9/17",
+  "newsUpdated": "更新于 9/18",
   "jobsUpdated": "更新于 8/24"
 }
